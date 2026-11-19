@@ -1302,6 +1302,12 @@ window.LUMPEN_REFS = {
   "sec": "The Protest Song Tradition",
   "para": "The Lumpen were accidental heirs to a tradition, ones who applied a new spirit to musical arrangements, lyrics, performances, rituals, and commemorations that were in the process of being transformed by the social movements of the day. The selections of traditional songs and established popular black music that the Lumpen chose to record, reprise, and parody reveals them to be active agents in the deep tradition of resistance music that centered on the “updating” of popular songs."
  },
+ "The Lumpen. “Live,” recording from Merrit College, Oakland, CA. Taped November 10, 1970; from Huey P. Newton collection, Stanford University, Palo Alto, CA.": {
+  "ch": 11,
+  "page": 360,
+  "sec": "Discography",
+  "para": "The Lumpen. “Live,” recording from Merrit College, Oakland, CA. Taped November 10, 1970; from Huey P. Newton collection, Stanford University, Palo Alto, CA."
+ },
  "The Panthers go door-to door for donations of food or money to help the poor. I support that.”": {
   "ch": 9,
   "page": 288,
@@ -1721,6 +1727,12 @@ window.LUMPEN_REFS = {
   "page": 237,
   "sec": "”Free Huey”",
   "para": "Seale managed to stay out of jail and serve the Party for almost a year until his arrest in the Rackley case in Oakland on August 19, 1969. Seale posted a $25,000 bond and was then rearrested for the Chicago charge before he left the building. Seale was then tried for the Chicago case while awaiting trial in the New Haven case. It appeared that the government was going to try everything to keep Seale in jail and put him in the electric chair, if possible. In Chicago, Judge Julius Hoffman refused to allow a continuance for Seale’s lawyer (Charles Garry, who was having gallbladder surgery), and when Seale demanded to represent himself, the judge again refused. Unwilling to be silenced over the blatant quashing of his rights, Bobby Seale was ordered bound and gagged by Judge Hoffman and forced to watch the proceedings tied to a chair with his mouth taped shut. Eventually both cases would be dismissed. However, the toll taken on the Party and the black radical movement was enormous."
+ },
+ "Watts Prophets. Things Gonna Get Greater: The Watts Prophets 1969–1971, CD Water 157 (2005).": {
+  "ch": 11,
+  "page": 361,
+  "sec": "Discography",
+  "para": "Watts Prophets. Things Gonna Get Greater: The Watts Prophets 1969–1971, CD Water 157 (2005)."
  },
  "We are an African people, so it was natural that from the beginning, from the spirituals right on up, music would be our weapon and our solace.": {
   "ch": 2,
