@@ -6,17 +6,41 @@ window.LUMPEN_REFS = {
   "sec": "Framing the Black Revolution",
   "para": "A confluence of events in 1965 sparked a new branch of the movement, one in which the aspects of nonviolent civil disobedience began to lose their relevance. The assassination of Malcolm X on February 21 initiated a widespread reappraisal of his writings and speeches by a new generation of young rebels. Fractures within the movement began to emerge, which brought contradictory value systems among blacks into view. The passage of the Voting Rights Act in August 1965, only weeks after the brutal beatings of civil rights marchers in Selma, Alabama, was considered a fallacy by many dispossessed people (though liberal lawmakers considered it a hard-fought victory against staunchly racist opposition). The frustration reached a breaking point when South Central Los Angeles exploded in the Watts uprising on August 11, 1965."
  },
+ "After about four hours of preparation, “Say It Loud, I’m Black and I’m Proud” went down in one take.": {
+  "ch": 5,
+  "page": 105,
+  "sec": "“Say It Loud”",
+  "para": "Mr. Brown was in control now. Pee Wee took his place in the reed section, and James counted it off. The groove was already strong, but when James counted it off and began to dance and direct it, it took on a new power. All of a sudden, the fatigue I had been feeling was gone. The kids were doing their chant with a new energy. In fact the energy level in the whole studio was lifted. James went straight through the whole tune and that was it. After about four hours of preparation, “Say It Loud, I’m Black and I’m Proud” went down in one take."
+ },
  "After smoking the groove, in unison the band shout-sings the chorus, “We got a message to the people / saying off the pigs! Off the pigs!” as the stirring horns punctuate the groove and elevate the energy of the space.": {
   "ch": 4,
   "page": 50,
   "sec": null,
   "para": "After smoking the groove, in unison the band shout-sings the chorus, “We got a message to the people / saying off the pigs! Off the pigs!” as the stirring horns punctuate the groove and elevate the energy of the space."
  },
+ "Among his most famous were: “Violence is as American as cherry pie” and “If America don’t come around, we’re gonna burn it down.”": {
+  "ch": 5,
+  "page": 100,
+  "sec": "1968",
+  "para": "Rap Brown was a compelling speaker with a penchant for memorable one-liners. Among his most famous were: “Violence is as American as cherry pie” and “If America don’t come around, we’re gonna burn it down.” Rap Brown was well versed in street slang and had a massive following of young and antiestablishment supporters. James Brown, perhaps ironically, was among them. Brown wrote, “I disagreed with Rap about a lot of things, but I also didn’t like the way the government was harassing him. And as bad as things were getting, I thought we needed to stick together. I was against violence, but I was not against self-defense.” Brown’s open dialogue with black power militants made him a singularly equipped black celebrity to respond when the masses exploded."
+ },
  "Among the musical leaders of this revolution were the iconoclastic folk singer turned social commentator Bob Dylan, the adventurous British rock and roll quartet the Beatles, the Seattle-bred guitarist Jimi Hendrix, the Afro-Latin rock stylist Carlos Santana, the psychedelic troubadours the Grateful Dead, and the meteoric Sly and the Family Stone.": {
   "ch": 4,
   "page": 56,
   "sec": "The Bay Area and the counterculture Revolution",
   "para": "Among the musical leaders of this revolution were the iconoclastic folk singer turned social commentator Bob Dylan, the adventurous British rock and roll quartet the Beatles, the Seattle-bred guitarist Jimi Hendrix, the Afro-Latin rock stylist Carlos Santana, the psychedelic troubadours the Grateful Dead, and the meteoric Sly and the Family Stone. With national hits that appealed to both black and white audiences, Sly and the Family Stone was the most universally popular."
+ },
+ "And I was saying, “No. You need to sing some conscious lyrics. You can pass a message on in the music.”": {
+  "ch": 5,
+  "page": 117,
+  "sec": "”The African James Brown”",
+  "para": "At that time, James Brown had “Say It Loud, I’m Black and I’m Proud.” Fela was singing in Yoruba, you couldn’t understand anything he was saying, but the music was getting better and better. He was getting deeper into his African roots. African music is about the chanting. Fela had all these rhythms and all these arrangements, and it was getting so dynamic! But when I asked him what he was saying, he said he was talking about what he likes in his soup! And I was saying, “No. You need to sing some conscious lyrics. You can pass a message on in the music.”"
+ },
+ "And all three were subjected to a remarkable level of repression by the state.": {
+  "ch": 5,
+  "page": 119,
+  "sec": "”The African James Brown”",
+  "para": "It is important to note that Bob Marley and Fela Kuti—acknowledged worldwide as political artists—both considered James Brown to be a significant influence on their careers. All three of these men harnessed the power of African rhythms to produce music with a transcendent energy and force for liberation, while each man—both artistically and literally—pushed against the repressive apparatus upholding racial and economic injustice. And all three were subjected to a remarkable level of repression by the state."
  },
  "And in the early sixties, artists like Sister Odetta, Oscar Brown Jr., Max Roach and Abbey Lincoln with their We Insist! Max Roach’s Freedom Now Suite, or Nina Simone’s “Mississippi Goddam” and “Young, Gifted and Black” had reflected the Southern struggle.": {
   "ch": 2,
@@ -29,6 +53,12 @@ window.LUMPEN_REFS = {
   "page": 5,
   "sec": "“Revolution in the Air”",
   "para": "I realized that what we were really fighting for was the creation of a new society. When I had started out in the movement all I wanted were my rights under the constitution. But the more I thought about it the more I realized that despite what the President or the supreme court might say, the only way we could get true equality was if America changed completely from top to bottom. And this change had to start with my own people, with black revolution."
+ },
+ "And, for the first time in America, this music spoke directly from Africa.": {
+  "ch": 5,
+  "page": 96,
+  "sec": "“The One”",
+  "para": "Brown’s new approach to music making was rhythm based. Unlike music derived from the blues, it was not built around a melody, or even an implied melody. This music came from the drums, bass, and guitars. And, for the first time in America, this music spoke directly from Africa. “I was hearing everything, even the guitars, like they were drums,” Brown recalled in 1986. The direct impact Brown’s music had on his predominantly black audience in the late 1960s was an upswelling of unbridled excitement, affirmation, and allegiance."
  },
  "As Dr. Jason Ferreira states: “It was as if the students throughout the region were engaging in one big strike.”": {
   "ch": 3,
@@ -120,11 +150,29 @@ window.LUMPEN_REFS = {
   "sec": "Preface",
   "para": "Could one be funky and a revolutionary at the same time? I wrestled with this notion as I wrote my first book, Funk: The Music, the People and the Rhythm of The One. The great funk bands and musicians of the 1970s were to me expressions of the freedom that the black power movement fought so hard to establish. These were the dancing revolutionaries I thought I was looking for. For me, Don Cornelius’s Soul Train was one big black power dance party. But the volumes of history I read gave the impression that the movement people and the entertainers inhabited opposite banks of that river to freedom. How were black power and soul music connected?"
  },
+ "For the Black Panthers—who were Fanonists in a very strong sense—to produce a James Brown-styled band like the Lumpen speaks volumes about the potential—the revolutionary potential—of the music, of the culture, of the people.": {
+  "ch": 5,
+  "page": 112,
+  "sec": "“Say It Loud”",
+  "para": "To imagine Brown reading Frantz Fanon is of particular interest, as the Martinique-born psychologist and theorist of a “Third World Revolution” was required reading in the political education classes in the formative years of the Black Panther Party. Fanon’s 1961 opus, Wretched of the Earth, written as he was battling cancer as well as working alongside the Algerian resistance against French colonial rule, was for many the bible of the Third World revolution. That book and other of his writings resonated because of Fanon’s ability to deconstruct the psychology of colonization, which girded Fanon’s prescriptions for violence in the overturning of the colonial state. Wretched of the Earth was popular worldwide and was widely read in the United States once it was translated in 1963. For the Black Panthers—who were Fanonists in a very strong sense—to produce a James Brown-styled band like the Lumpen speaks volumes about the potential—the revolutionary potential—of the music, of the culture, of the people. Larry Neal’s fanciful notion of James Brown reading Fanon was perhaps best incarnated in the music and performances of the Lumpen."
+ },
+ "For the first DJs, the first breakers, and the first rappers, James Brown endures as a founding father of hip-hop.": {
+  "ch": 5,
+  "page": 121,
+  "sec": "The Rhythm of Resistance",
+  "para": "At the end of the 1960s, James Brown’s performances and dancefunk recordings focused an energy that encapsulated the black power emanating from the streets. Brown created a space—at his shows and in the minds of his audiences—inhabited by highly charged rhythms, assertive attitudes, and free-form vocal improvisation. With self-aggrandizing titles such as “Superbad,” “Sex Machine,” “The Payback,” and “Papa Don’t Take No Mess,” Brown’s records provided thematic and rhythmic palates for younger disc jockeys to generate dance-floor pandemonium. The edgy and relentless rhythms allowed young dancers to find their own robotic, acrobatic moves within the rhythmic space of the grooves. Brown’s charged, syncopated, often improvised lyrics, grunts, and chants became basic ingredients for up-and-coming rappers to personalize their own syncopated deliveries. For the first DJs, the first breakers, and the first rappers, James Brown endures as a founding father of hip-hop."
+ },
  "For this performance, Panther supporter “Sister Candace” brings the same energy and cadence, but chants, “Hey, get up! And make revolution! / Get on up! And make revolution!”": {
   "ch": 4,
   "page": 50,
   "sec": null,
   "para": "“Hey, get up! And dance to the music / Get on up! And dance to the music!” For this performance, Panther supporter “Sister Candace” brings the same energy and cadence, but chants, “Hey, get up! And make revolution! / Get on up! And make revolution!”"
+ },
+ "Freedom! / Hah! / freedom / Lookie here / freedom / James Mott / freedom / Michael Torrence / freedom / Clark Bailey / freedom / Hah! / freedom / good God / freedom / My name is Bill Calhoun / freedom / We’re from the Black Panther Party / freedom / Hah! / freedom / … I want you to / freedom / to sing along with me.": {
+  "ch": 5,
+  "page": 88,
+  "sec": null,
+  "para": "Freedom! / Hah! / freedom / Lookie here / freedom / James Mott / freedom / Michael Torrence / freedom / Clark Bailey / freedom / Hah! / freedom / good God / freedom / My name is Bill Calhoun / freedom / We’re from the Black Panther Party / freedom / Hah! / freedom / … I want you to / freedom / to sing along with me."
  },
  "From Watts to Brownsville, we find misery": {
   "ch": 3,
@@ -138,17 +186,41 @@ window.LUMPEN_REFS = {
   "sec": "The 45 rpm Single",
   "para": "The Lumpen were active during a tumultuous, transitional period in Party history. As a result of major events internally during this time (mid-1970 through mid-1971), cofounder and leader Newton moved to dramatically reorganize. In February 1971 Newton expelled Eldridge Cleaver from the Party after a critical public confrontation he had with Cleaver by phone from Algeria. Cleaver had been considered one of the Party leaders and advocated the more militant, confrontational actions Newton was trying to distance the Party from. This action fractured the Party into factions that supported either Cleaver’s militarist stance or Newton’s longer-term vision of revolutionary change. Fueled by COINTELPRO infiltration, agent provocateurs, and disinformation fomenting suspicion, the resulting internal friction devastated the rank-and-file membership and led to the deaths of dedicated Panthers Robert Webb and Sam Napier. Calhoun recalls the chaos:"
  },
+ "Funk was like the way we lived.": {
+  "ch": 5,
+  "page": 118,
+  "sec": "”The African James Brown”",
+  "para": "The physicality of African music and the physicality of Brown’s funk should not be ignored as parallel developments. Fela and most musicians in the tropics experienced a visceral connection between the sounds of the music and the sensations of the natural body (dance, sweat, sex) as part of their daily activities. For black American artists, this was often a bittersweet reality, as their expressiveness was both their blessing and a curse because it contrasted with the Western notions of polite civility. No small amount of white racism was imparted on black entertainers specifically because of their affectation with the body and their ability to get whites in touch with theirs. Bootsy Collins once explained the funk in the most physical of terms, connecting it to his Cincinnati youth: “Funk was like the way we lived. All of us kids sleeping in one room, it’s 105 degrees outside, no air-conditioning. That’s funk.”"
+ },
+ "Gil Scott-Heron would go on to become one of the most important politically oriented black artists of his generation.": {
+  "ch": 5,
+  "page": 109,
+  "sec": "“Say It Loud”",
+  "para": "Gil Scott-Heron was born in Chicago in 1949. After his parents divorced, he was raised by his grandmother in rural Tennessee. Scott-Heron witnessed southern racism firsthand as one of the first grade-schoolers to integrate the schools in Jackson, Tennessee. He spent his teenage years in the chaos of early 1960s Harlem and was writing biting poetry and fiction between stints in college. Once he began recording, a new tone of angry black soul emerged in his work. Gil Scott-Heron produced music with an angular, righteous voice of discontent that captured the imagination of a rebellious generation. Through Thiele’s Flying Dutchman records, Scott-Heron would release such biting jazz poetry as “Whitey on the Moon,” “Home Is Where the Hatred Is,” and “Who’ll Pay Reparations on My Soul?” Developing a musical collaboration with fellow Lincoln University student Brian Jackson, throughout the 1970s the two recorded many socially conscious—and funky—rhythm and blues songs such as “Johannesburg,” “The Bottle,” “Angel Dust,” and “B-Movie.” Gil Scott-Heron would go on to become one of the most important politically oriented black artists of his generation."
+ },
  "Gospel music forges a sustainable moment of courage out of one of despair and retreat.": {
   "ch": 2,
   "page": 8,
   "sec": "“Revolution in the Air”",
   "para": "To offer hope and possibility in the face of the unspeakable terrors facing civil rights activists in the South bears witness to the unique powers of the gospel music experience. The physical reality of the dangers, the uncertainty, and the fear involved in the struggle would sway in the moment of the music, in the netherworld of sensation, as a collective emotional state takes over as one gives themselves away to the song. Through the innate healing power of the music—of the sounds, of the rhythms, of the collectively shared physical motion, the exhilaration of the unified harmonies—a sense of unbounded power emerges, and the terrestrial fears and trials are suspended for the moment. Gospel music forges a sustainable moment of courage out of one of despair and retreat."
  },
+ "Had the Lumpen managed to release their live album and become nationally known, they might have completely shattered that stoic image of the Panthers and through their performance given recognition to the impact of James Brown on black American life and culture.": {
+  "ch": 5,
+  "page": 107,
+  "sec": "“Say It Loud”",
+  "para": "The Black Panther Party saw itself as going beyond cultural nationalism, beyond identity politics, toward revolutionary action. The Panthers had their reasons at the time for disparaging cultural nationalism (see chapter 5), but Harrison’s position and the Panthers’ public posture of dismissing the party music of James Brown perpetuated the illusion that the Panthers, as revolutionaries, would not dance. Had the Lumpen managed to release their live album and become nationally known, they might have completely shattered that stoic image of the Panthers and through their performance given recognition to the impact of James Brown on black American life and culture."
+ },
  "He showed me a seven-inch, 45 rpm single with the titles “Free Bobby Now” and “No More” printed on each side.": {
   "ch": 1,
   "page": "xvi",
   "sec": "Party Music: The Coup",
   "para": "He showed me a seven-inch, 45 rpm single with the titles “Free Bobby Now” and “No More” printed on each side. It was credited as a Seize the Time production, and the artist was listed as the Lumpen. The single is one of the most sought after oldies records by music collectors. Through Walter Turner, I was able to digitize the single as well as other cultural productions of the black radical movement, including the two music albums recorded by former Panther Party leader Elaine Brown."
+ },
+ "He was the first to make the mainstream go black.": {
+  "ch": 5,
+  "page": 124,
+  "sec": "“Revolution of the Mind”",
+  "para": "I think the difference between James Brown and other icons is that he was one of the few—the only one I can think of—who made it on his terms, which is why he was so loved. Because he never changed. There were other entertainers who became the first blacks to go mainstream. He was the first to make the mainstream go black."
  },
  "Hilliard anointed one of Brown’s songs (“The Meeting”) the Black Panthers’ national anthem and proclaimed that Brown should record her music for the revolution.": {
   "ch": 2,
@@ -162,11 +234,23 @@ window.LUMPEN_REFS = {
   "sec": "The Rise of the Black Panther Party",
   "para": "Huey’s mother gave him piano lessons. Childhood friend David Hilliard was impressed with Huey’s diverse talents and recalls, “Huey loved classical music. His mother had furnished him with piano lessons, so he introduced me to the music of Tchaikovsky. He loved The Nutcracker. One of his favorite songs was Rimsky-Korsakov’s ‘Flight of the Bumblebee.’ “"
  },
+ "I didn’t need melody to make music.": {
+  "ch": 5,
+  "page": 94,
+  "sec": "James Brown and the Rhythm Revolution",
+  "para": "I didn’t need melody to make music. That was, to me, old fashioned and out of step. I now realized that I could compose and sing a song that used one chord or at the most two. Although “Papa’s Got a Brand New Bag” has just two chords, and a melody sung over what is really a single note, it is just as musical as anything Pavarotti has ever sung. More important, it stood for everything I was about—pride, leadership, strength, intensity. And it went straight to number one on every pop and R&B chart in the world."
+ },
  "I got this scholarship at Stanford playing “Flight of the Bumblebee” on the piano.": {
   "ch": 4,
   "page": 74,
   "sec": "Lumpen Members’ Road to the Black Panther Party",
   "para": "So if I moved here or there, one thing consistent for me was my music. I was able to continue to take these lessons that I had been taking. I took lessons all the way through all the bullshit. And it was basically the classical background, it wasn’t rhythm and blues or anything. I was playing Beethoven and stuff. I got this scholarship at Stanford playing “Flight of the Bumblebee” on the piano. That was my way of keeping sane through all the madness that was going on in my life as a young man."
+ },
+ "I must find a name for my music, so I gave my music [the name] “afrobeat” to give it an identity.": {
+  "ch": 5,
+  "page": 116,
+  "sec": "”The African James Brown”",
+  "para": "Soul music took over. James Brown’s music, Otis Redding took over the whole continent, man. It was beautiful music though, I must agree. I said to myself, I must compete with these people. I must find a name for my music, so I gave my music [the name] “afrobeat” to give it an identity."
  },
  "I said freedom got a shotgun / oh yeah!": {
   "ch": 2,
@@ -192,11 +276,23 @@ window.LUMPEN_REFS = {
   "sec": "Lumpen Members’ Road to the Black Panther Party",
   "para": "I thought I knew what music was about until I heard my first Ray Charles record. What little I know about piano, I learned sitting down imitating Ray Charles records. Michael McDonald has said that “when you first hear Ray Charles, the first time, he touches something down inside you didn’t even know was there. And you spend the rest of your career trying to find it again.” And that’s exactly what happened to me."
  },
+ "I turned all of them around because I went on one and three as opposed to the music being written on two and the four.": {
+  "ch": 5,
+  "page": 95,
+  "sec": "“The One”",
+  "para": "In what would later be called the first of the funk beats, on “New Bag” Brown and his band developed an exotic new rhythmic orientation, a means of arranging the music around the downbeat. The downbeat is the first pulse in a four-beat bar in Western music, what Brown would call “the One.” Most of American popular music to this time had been written around a melody that emphasized the two and the four. Handclaps are applied on the two and the four, employing foot stomps, pauses, or silence on the downbeat. James Brown explained the breakthrough in a 1993 interview: “I turned all of them around because I went on one and three as opposed to the music being written on two and the four. Then I took gospel and jazz and defied all the laws. If I played eight bars and felt like I should play nine or ten, I would play nine or ten. As long as I felt the people grooving.”"
+ },
  "I was a groupie for the Lumpen.": {
   "ch": 3,
   "page": 42,
   "sec": "The 45 rpm Single",
   "para": "The Lumpen did attract some of their own recruits as a direct result of their success onstage. Fredrika Newton, eventual widow of Party leader Huey Newton, was one of many teenagers fresh out of Berkeley High School when a Lumpen concert came her way: “I remember the Lumpen. I used to go to all of their shows,” she recalled in an impromptu telephone conversation with me in 2006. “I was a groupie for the Lumpen. I used to go with [singer] James Mott. My girlfriend Val [Valerie Trahan] went with Clark [Bailey], my other girlfriend Jan [Thompson] went with Mike [singer Michael Torrence]. I joined the Party because of the Lumpen.” While groupies may not have been the primary goal for the Lumpen, it appears that the band members were clearly doing their share of entertaining their audience."
+ },
+ "I was against violence, but I was not against self-defense.”": {
+  "ch": 5,
+  "page": 101,
+  "sec": "1968",
+  "para": "Rap Brown was a compelling speaker with a penchant for memorable one-liners. Among his most famous were: “Violence is as American as cherry pie” and “If America don’t come around, we’re gonna burn it down.” Rap Brown was well versed in street slang and had a massive following of young and antiestablishment supporters. James Brown, perhaps ironically, was among them. Brown wrote, “I disagreed with Rap about a lot of things, but I also didn’t like the way the government was harassing him. And as bad as things were getting, I thought we needed to stick together. I was against violence, but I was not against self-defense.” Brown’s open dialogue with black power militants made him a singularly equipped black celebrity to respond when the masses exploded."
  },
  "I was captivated by the song choices made by the group—all classic soul songs parodied and reworked to fit the party line of the Black Panther Party.": {
   "ch": 1,
@@ -209,6 +305,12 @@ window.LUMPEN_REFS = {
   "page": 6,
   "sec": "“Revolution in the Air”",
   "para": "I went to a Free Huey Rally at the federal building in SF, and met many brave Panthers. Went on a mission with Kathleen Cleaver in Hunter’s Point because my beloved was one of her self-appointed guards. Captured body and soul by the rally and the love and energy of black people. My favorite retort to almost anything soon became “And how does that free the people?” I was dogmatic and insufferable, but could dance you down at a house party!"
+ },
+ "If you play James Brown (say, “Money Won’t Change You / but time will take you out”) in a bank, the total environment is changed.": {
+  "ch": 5,
+  "page": 91,
+  "sec": "James Brown and the Rhythm Revolution",
+  "para": "If you play James Brown (say, “Money Won’t Change You / but time will take you out”) in a bank, the total environment is changed. Not only the sardonic comment of the lyrics, but the total emotional placement of the rhythm, instrumentation and sound. An energy is released in the bank, a summoning of images that take the bank, and everybody in it, on a trip. That is they visit another place. A place where Black People live."
  },
  "In 1967 Newton secured the use of the Diggers’ “communication company” to print the first issues of the Black Panther paper.": {
   "ch": 4,
@@ -228,6 +330,12 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "During this heated time in American history, entertainers were often political and political leaders were unmistakably entertaining. Often the tenor of the times blurred the roles of each. The multifaceted pianist and singer Nina Simone was an enigmatic advocate for social causes. As an entertainer, the classically trained prodigy had established herself as a musical tour de force as she played concert halls from her native North Carolina to Paris in the early 1960s. However, as events in the civil rights movement compelled a reorganization of her views, she developed a protest music repertoire and produced piercing commentary on the changes evolving at the time. In her concerts she openly defied and challenged her predominantly white audiences, often claiming from the stage, “This next song is only for the black people that are here.” In her memoir I Put a Spell On You, Simone positioned herself within the movement:"
  },
+ "In the United States, cultural nationalism can be summed up in James Brown’s words—’I’m Black and I’m Proud.’": {
+  "ch": 5,
+  "page": 107,
+  "sec": "“Say It Loud”",
+  "para": "In the United States, cultural nationalism can be summed up in James Brown’s words—’I’m Black and I’m Proud.’ … Those that believe in the ‘I’m Black and Proud’ theory—believe that there is dignity inherent in wearing naturals; that a buba makes a slave a man…. A man who lives under slavery and any of its extensions rarely regains his dignity by rejecting the clothiers of his enslaver; he rarely regains his dignity except by a confrontation on equal grounds with his enslaver."
+ },
  "In the streets, to be lumpen was to be hood, one of the brothers off the block, and so in Panther parlance, lumpen was a term of praise and allegiance for Party members.": {
   "ch": 3,
   "page": 28,
@@ -240,11 +348,23 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "Carmichael was aware of the relationship between the revolution in the social structure he was fighting for every day as an activist and the revolutionary changes taking place in the daily lives of the people he had chosen to serve. Carmichael reveals himself as a soul brother, someone likely as adept on the dance floor as on the rally stage. Indeed it was Car-michael’s soulfulness—his personal style and ability to flow and improvise within his community—that made him a great movement leader."
  },
+ "It is not an exaggeration to say that the song may have been the most important black popular music recording ever released.": {
+  "ch": 5,
+  "page": 105,
+  "sec": "“Say It Loud”",
+  "para": "The impact of “Say It Loud” could be felt everywhere. It is not an exaggeration to say that the song may have been the most important black popular music recording ever released. “ ‘I’m Black and I’m Proud,’ that was the most beautiful thing that ever happened!” recalls guitarist Mack Ray Henderson. “Because before that, it was ‘I’m black and I’m ashamed!’ “ In October 1968, when Olympic athletes Tommie Smith and John Carlos raised their black-gloved, clenched fists on the victory stand in Mexico City during the playing of the national anthem—the effect itself causing a surge in black pride—”Say It Loud—I’m Black and I’m Proud” had just peaked as the number one R&B song in the country."
+ },
  "It might appear that gospel is the least political and worldly of African American musics. In fact the opposite is true.": {
   "ch": 2,
   "page": 7,
   "sec": "“Revolution in the Air”",
   "para": "It might appear that gospel is the least political and worldly of African American musics. In fact the opposite is true. Gospel music—like the spirituals—is highly political in a broad sense of the term, if for no other reason than that it functions as a means to constitute a unified community to forge a collective consciousness. It likewise functions as a locus of unrestrained celebration as well as a soothing balm. It offers hope and possibility."
+ },
+ "It was like saying, “Suppose James Brown read Fanon.”": {
+  "ch": 5,
+  "page": 111,
+  "sec": "“Say It Loud”",
+  "para": "We began to listen to the music of the rhythm and blues people, soul music…. The big hero for the poets was James Brown. We all thought that James Brown was a magnificent poet, and we all envied him and wished we could do what he did. If the poets could do that, we would just take over America. Suppose James Brown had consciousness. We used to have big arguments like that. It was like saying, “Suppose James Brown read Fanon.”"
  },
  "Jackson was on the stage during Dr. King’s famous speech and urged King to leave his scripted text, shouting, “Tell them about your dream, Martin! Tell them about the dream!”": {
   "ch": 2,
@@ -252,11 +372,41 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "During the early years of the civil rights movement, the black church was the central organizing structure and spiritual home base for a generation seeking to work up the courage to challenge white racist violence. One fundamental element of the black church experience was and is the music, the timeless sounds of salvation that have passed from generations of slaves to the present day. These sorrow songs would eventually morph into freedom songs, and the church became the source of inspiration for the movement. Martin Luther King Jr. utilized the power of spirituals to keep him going through the desperate times, and specifically requested that Mahalia Jackson perform before his “I Have a Dream” speech at the March on Washington in 1963. Jackson was on the stage during Dr. King’s famous speech and urged King to leave his scripted text, shouting, “Tell them about your dream, Martin! Tell them about the dream!” Mahalia Jackson’s presence may have been the spark that made a legend out of the man on that unforgettable day."
  },
+ "James Brown at this time was an immensely popular icon of black pride, and to some he was considered a revolutionary artist.": {
+  "ch": 5,
+  "page": 88,
+  "sec": null,
+  "para": "Throughout their thrilling opening song, the Lumpen utilized the standards and techniques of the James Brown band. Through the use of call-and-response audience interaction, the effective use of physicality on stage, the driving rhythms and counter-rhythms by the band, and the percussive improvised vocalizing, the group signified on the rhythms of the streets while framing the political thrust of the Black Panther Party on the people’s terms. James Brown at this time was an immensely popular icon of black pride, and to some he was considered a revolutionary artist. By using the James Brown performance aesthetic, the Lumpen were asserting the revolutionary black power of their music. “Everything about my stage production I got from James Brown,” recalls Lumpen bandleader William Calhoun. Lumpen singer Michael Torrence recalls:"
+ },
+ "James Brown did it with one song.": {
+  "ch": 5,
+  "page": 106,
+  "sec": "“Say It Loud”",
+  "para": "“Say It Loud” popularized the term black as the proper and preferred nomenclature for African Americans across the country and across the generations and finally ushered the term Negro out of mainstream use. In previous eras, to call someone black was a deeply seated term of derision in the community; to empower and liberate the word helped to liberate an entire population. The term Negro was an anachronism when it appeared on the 1970 census as the official designation of choice for African American citizens. Al Sharpton commented after Brown’s passing: “There were many in the movement who wanted to raise the consciousness of black America from Negro to black. James Brown did it with one song. He could reach the masses much quicker than a lot of the leaders.”"
+ },
+ "James Brown was all right until he started doing these affairs with Nixon.": {
+  "ch": 5,
+  "page": 123,
+  "sec": "“Revolution of the Mind”",
+  "para": "Shit, we danced to James Brown, “Papa’s Got a Brand New Bag.” James Brown was all right until he started doing these affairs with Nixon. James Brown wasn’t really considered a political animal. Remember we came from the community, and politicizing gained our political consciousness out of the necessity of the times, but we were people who came from the community, and James Brown was the consummate entertainer."
+ },
+ "Larry Neal’s fanciful notion of James Brown reading Fanon was perhaps best incarnated in the music and performances of the Lumpen.": {
+  "ch": 5,
+  "page": 112,
+  "sec": "“Say It Loud”",
+  "para": "To imagine Brown reading Frantz Fanon is of particular interest, as the Martinique-born psychologist and theorist of a “Third World Revolution” was required reading in the political education classes in the formative years of the Black Panther Party. Fanon’s 1961 opus, Wretched of the Earth, written as he was battling cancer as well as working alongside the Algerian resistance against French colonial rule, was for many the bible of the Third World revolution. That book and other of his writings resonated because of Fanon’s ability to deconstruct the psychology of colonization, which girded Fanon’s prescriptions for violence in the overturning of the colonial state. Wretched of the Earth was popular worldwide and was widely read in the United States once it was translated in 1963. For the Black Panthers—who were Fanonists in a very strong sense—to produce a James Brown-styled band like the Lumpen speaks volumes about the potential—the revolutionary potential—of the music, of the culture, of the people. Larry Neal’s fanciful notion of James Brown reading Fanon was perhaps best incarnated in the music and performances of the Lumpen."
+ },
  "Music from the ‘40s, you know, Sarah Vaughan, Billy Eckstine, you name it, then all the way up to James Brown, Sam Cooke, Lou Rawls, there was always music around the house.": {
   "ch": 4,
   "page": 76,
   "sec": "Lumpen Members’ Road to the Black Panther Party",
   "para": "I grew up around music. My mother is very musical; my mother used to be a drummer. There was just always music in the house. Music from the ‘40s, you know, Sarah Vaughan, Billy Eckstine, you name it, then all the way up to James Brown, Sam Cooke, Lou Rawls, there was always music around the house."
+ },
+ "My favorite artist was James Brown.": {
+  "ch": 5,
+  "page": 121,
+  "sec": "The Rhythm of Resistance",
+  "para": "I was born in Jamaica and I was listening to American music in Jamaica. My favorite artist was James Brown. That’s who inspired me. A lot of the records I played was by James Brown. When I came over here I just put it in the American style and a perspective for them to dance to it. In Jamaica all you needed was a drum and bass. So what I did here was go right to the ‘yoke.’ I cut off all anticipation and played the beats. I’d find out where the break in the record was at and prolong it and people would love it. So I was giving them their own taste and beat percussion-wise, ‘cause my music is all about heavy bass."
  },
  "My mother, Toni Vincent, was a Panther, and she knew many of the prominent early Party members.": {
   "ch": 1,
@@ -305,6 +455,12 @@ window.LUMPEN_REFS = {
   "page": 35,
   "sec": "The 45 rpm Single",
   "para": "In August 1970 the Lumpen went to the Tiki Recording Studio in San Jose and recorded two songs that would be released on a 45 rpm single: the original Calhoun compositions “Free Bobby Now” and “No More.” As far as bandleader Calhoun was concerned, the recording was just a test pressing to see what the group sounded like. However, as soon as the tape was heard by Party leadership, it was out of his hands. The single was pressed, advertised in the Black Panther, and sold at local Panther Party events and at Lumpen performances. Party members also took the single to local Bay Area black radio stations requesting airplay but were told repeatedly that the music was too radical for the airwaves."
+ },
+ "People like I, we love James Brown an’ love your funky stuffs, an’ we dig inta dat American bag.": {
+  "ch": 5,
+  "page": 115,
+  "sec": "James Brown and Third World Revolution",
+  "para": "People like I, we love James Brown an’ love your funky stuffs, an’ we dig inta dat American bag. We didn’t want ta stand around playin’ dat slower ska beat anymore. De young musician, deh had a different beat—dis was rock steady now! Eager ta go!"
  },
  "Point one was, “We want freedom. We want power to determine the destiny of our community.”": {
   "ch": 4,
@@ -366,6 +522,12 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "The singer and the crowd then joined in with the familiar vocal hook of the song “naa na-na-na naaa,” wrapping the audience of marchers in a collective interpretation of popular song, reinterpreted for the movement. Soul music—black popular music—would become the template for new movement songs. Conversely, the movement in the streets would inspire a rhythm-driven awakening of music in jazz, in funk, and in soul that captured a people’s aspirations just as the people were awakening."
  },
+ "Stokely [Carmichael] said I was the one person who was most dangerous to his movement at the time because people would listen to me.": {
+  "ch": 5,
+  "page": 99,
+  "sec": "James Brown and Black Power",
+  "para": "Stokely [Carmichael] said I was the one person who was most dangerous to his movement at the time because people would listen to me."
+ },
  "The Bay Area has a rich tradition of racially mixed rhythm and blues acts, from Johnny Otis to Tower of Power and Sly and the Family Stone.": {
   "ch": 3,
   "page": 41,
@@ -420,6 +582,12 @@ window.LUMPEN_REFS = {
   "sec": "Framing the Black Revolution",
   "para": "The construct of revolution was galvanized by the words of Malcolm X. The Nation of Islam’s minister of mosque number seven in Harlem was well known on the New York streets as the champion orator of black causes in the early 1960s. Malcolm X consistently derided the established civil rights leaders at the time, whom he claimed were only seeking superficial change and access to a society that Malcolm and others saw as corrupt. Malcolm X did not validate the idea that a revolution was taking place merely because people were marching for voting rights or for access to public facilities or businesses. He did not entertain the idea of access to white institutions as a goal. He used the model of the anticolonial struggles for freedom in Africa, Asia, and Latin America as his frame of reference. These struggles frequently involved violent battles over land utilizing guerilla warfare. As a veteran of the violence of urban black survival, Malcolm was able to bring this comparison down to the street level for his audiences. He made this point clear in Detroit in 1963 in his “Message to the Grass Roots”:"
  },
+ "The hit song “There Was a Time” traces the history of a people through their dances, and achieves in the process something of a rhythm and blues epic poem….": {
+  "ch": 5,
+  "page": 90,
+  "sec": "“There Was a Time”",
+  "para": "The hit song “There Was a Time” traces the history of a people through their dances, and achieves in the process something of a rhythm and blues epic poem…. Quoting these lyrics hardly does justice to Brown’s genius. He invokes dances like the Camelwalk and the Boogaloo. Each dance conjuring up a definite feeling and memory. Black poetry is best understood, as the powerful force that it is, when it is recited and danced."
+ },
  "The important point emerging from this is that the Movement was a double revolution, a revolution in the streets and a revolution in symbols, images and ideas—a revolution, in a word, of the word.": {
   "ch": 2,
   "page": 13,
@@ -431,6 +599,24 @@ window.LUMPEN_REFS = {
   "page": 21,
   "sec": null,
   "para": "In the streets of the Bay Area, young people were witnessing a visible assault on the black community, and on Black Panther Party members in particular. The imprisonment of Huey Newton in the fall of 1967 and the April 6, 1968, killing of young Bobby Hutton and wounding of Panther leader Eldridge Cleaver by Oakland police were clarion calls for many black youth that in 1968 a war with the power structure was imminent—if it had not already begun."
+ },
+ "The inner fire heard in avant-garde jazz as instrumental music was now exploding with the black fire of a new breed of righteous, straight-talking jazz poets.": {
+  "ch": 5,
+  "page": 108,
+  "sec": "“Say It Loud”",
+  "para": "Brown’s song generated interest in music that could “tell it like it is,” and the song energized the careers of radical poets and jazz musicians who had been seeking a larger space for their fiery antiracist, anti-integrationist, and often blatantly antiwhite works to be heard. In 1969 the political novelist and jazz poet Gil Scott-Heron was given a contract by legendary jazz and pop producer Bob Thiele to record a night of his political poetry backed by a jazz ensemble. Thiele was responsible for many of the classic 1960s sides by John Coltrane. The inner fire heard in avant-garde jazz as instrumental music was now exploding with the black fire of a new breed of righteous, straight-talking jazz poets. The recording of Small Talk at 125th and Lenox provided an early rendition of Gil Scott-Heron’s anthem of outrage and anticommercialism, “The Revolution Will Not Be Televised.”"
+ },
+ "The instrumental groove takes center stage as “The Lumpen Theme” works around a variation of James Brown’s “There Was a Time.”": {
+  "ch": 5,
+  "page": 87,
+  "sec": null,
+  "para": "After their introduction following the Freedom Messengers’ rousing opening act, the Lumpen storm the stage with a high-energy singing and stepping performance. The instrumental groove takes center stage as “The Lumpen Theme” works around a variation of James Brown’s “There Was a Time.” Brown’s original 1967 composition was in itself a tour de force of raw rhythm, and for many, it is considered the primordial funk groove. The burning track had been rerecorded and released on Brown’s live album Sex Machine that summer of 1970, and the Lumpen represented the percolating groove with fury and dedication."
+ },
+ "The investigation produced a list with more than eleven thousand names. James Brown’s name was on it.": {
+  "ch": 5,
+  "page": 113,
+  "sec": "“Say It Loud”",
+  "para": "In 1970 Brown’s amassed wealth and public presence as a black media entrepreneur was a highly admired aspect of Brown’s cultural leadership. While his many business ventures often appeared haphazard, to many of Brown’s fans it appeared inexplicable that a steadfast black capitalist of the stature of Brown, whose properties were well known and admired throughout the black community, could manage to lose control of his empire within a few short years. It was later revealed that Brown was a victim of the Special Services Committee of the IRS, which illegally spied on US citizens in an effort to harass, discredit, and destroy political opponents of President Richard Nixon. In 1974 a congressional investigation of the doomed Nixon administration found that, at the request of the president, the IRS illegally spied on thousands of individuals and organizations that it claimed harbored “extremist views and philosophies.” The investigation produced a list with more than eleven thousand names. James Brown’s name was on it. While Brown continued to record and perform worldwide, his empire was quietly dismantled, and his ability to build a black-oriented economic infrastructure based upon his vast popularity was sabotaged. It was done quietly, but a case can be made that Brown was seen by the government as a political threat and was made an example by forces beyond his control specifically because he was a black entertainer with a political vision for his people."
  },
  "The members of the Lumpen traversed the crossroads between revolutionary politics and revolutionary culture.": {
   "ch": 3,
@@ -449,6 +635,12 @@ window.LUMPEN_REFS = {
   "page": 71,
   "sec": "Sacramento",
   "para": "The day Bobby Seale and the Panthers went up to Sacramento with their guns, the state campus sparkled with anticipation. The word spread like only good news can. Black students were beaming from one end of the campus to the other. The real shit was not too far away, was what was in some of our minds. The real revolution is just around the corner, we felt. The photos of Bobby [Seale] and Bobby Hutton on the front page with their heat strapped on or in hand did something wonderful to us. It pumped us up bigger than life. Black men demanding democracy and justice and ready to fight about it! Those were heady times."
+ },
+ "The song cost me a lot of my crossover audience.": {
+  "ch": 5,
+  "page": 108,
+  "sec": "“Say It Loud”",
+  "para": "The song cost me a lot of my crossover audience. The racial makeup of my concerts was mostly black after that. I don’t regret recording it, though, even if it was misunderstood. It was badly needed at the time. It helped the Afro-Americans in general and the dark-skinned man in particular. I’m proud of that."
  },
  "The title of this book is borrowed from the name of one of Boots Riley’s albums.": {
   "ch": 1,
@@ -473,6 +665,12 @@ window.LUMPEN_REFS = {
   "page": 31,
   "sec": null,
   "para": "The whole idea of the covers thing came to me from James Cleveland, the gospel artist. James would take a popular song and make it gospel. And he’d do it in a New York minute, ‘cause I remember my mother buying a lot of those records. They were just covers of some popular song, but James Cleveland has now made it into a gospel song."
+ },
+ "The whole movement of the Last Poets was to “de-niggerify” black people.": {
+  "ch": 5,
+  "page": 110,
+  "sec": "“Say It Loud”",
+  "para": "Now those negative aspects became the nigger. The whole movement of the Last Poets was to “de-niggerify” black people. A nigger is slovenly, a nigger is unreliable. We didn’t wage war against white people, we waged war against black people that were not being black, and those people were niggers."
  },
  "Their pleasure was in itself a form of political expression, and the politics of pleasure were on full display, shouting down the politics of partisanship.": {
   "ch": 2,
@@ -618,11 +816,23 @@ window.LUMPEN_REFS = {
   "sec": null,
   "para": "There was a tune I wrote called “Killing” that Huey made us stop singing. The Party was making this transition. We were making the transition from being the guys on the posters with the guns to breakfast programs and political work and that kind of stuff."
  },
+ "What was missing for me and my people was the rhythm of our own revolution—a soundtrack strong enough to bring us to the outside rather than keep us on the inside.": {
+  "ch": 5,
+  "page": 96,
+  "sec": "“The One”",
+  "para": "What was missing for me and my people was the rhythm of our own revolution—a soundtrack strong enough to bring us to the outside rather than keep us on the inside."
+ },
  "When Malcolm X was killed in 1965, I ran down the street.": {
   "ch": 4,
   "page": 62,
   "sec": "The Rise of the Black Panther Party",
   "para": "When Malcolm X was killed in 1965, I ran down the street. I went to my mother’s house, and I got six loose red bricks from the garden. Every time I saw a paddy roll by in a car, I picked up one of the half-bricks and threw it at the motherfuckers. I threw about half the bricks, and then I cried like a baby. I was righteously crying. I was pissed off and mad. Every paddy I’d see, whop! I’d throw a brick, and it would hit the cars, and zoom! They’re driving down the street, and I’m throwing bricks for a motherfucker. I thought that was all I could do. I was ready to die that day."
+ },
+ "When Marley returned to Jamaica in the fall, he is said to have told Bunny Wailer that he “no longer wanted to be a smooth singer, but rather he preferred to be a rough and militant vocalist like James Brown.”": {
+  "ch": 5,
+  "page": 115,
+  "sec": "James Brown and Third World Revolution",
+  "para": "Bob Marley spent most of 1966 in the United States, living with his mother in Delaware. There, he soaked up the sounds of soul music on the radio and developed a deeper sense of his own style, as well as a keen affection for the smooth croonings of Curtis Mayfield and the raw soul of James Brown. (Ironically, Marley missed the much-heralded April 21, 1966, visit to Jamaica by Ethiopian emperor Haile Selassie, the legendary “King of Kings” to the Rastafarians, whose worldview Marley was beginning to immerse himself in.) When Marley returned to Jamaica in the fall, he is said to have told Bunny Wailer that he “no longer wanted to be a smooth singer, but rather he preferred to be a rough and militant vocalist like James Brown.” In 1969 Marley and his group recorded a militant race pride oriented single, “Black Progress,” which featured verses from Brown’s “Say It Loud—I’m Black and I’m Proud,” some Brown-influenced black power chants, and an opening guitar riff from Sam and Dave’s “Soul Man.”"
  },
  "When the sixties ended, rock was defined by Jimi Hendrix abusing the “Star-Spangled Banner” at the Woodstock concert in August 1969.": {
   "ch": 2,
@@ -642,11 +852,23 @@ window.LUMPEN_REFS = {
   "sec": "The 45 rpm Single",
   "para": "The Lumpen performed outside in the cold at the aborted second Revolutionary People’s Constitutional Convention (RPCC) in Washington, DC, on Friday, November 27, 1970. The convention was intended to be a follow-up to the Philadelphia RPCC and an opportunity for thousands of activists to finalize their ideas for a new antiracist, anticapitalist, progender equality, gay-tolerant society. However, problems with the unpaid rent for the venue at Howard University left hundreds of delegates literally out in the cold. The impromptu Lumpen performance was one of the only high points of the gathering. They were met once again by the FBI. William Calhoun recalls, “The FBI guy walked past us and said, ‘What took you so long to get here? We lost you in New York and we thought you’d never get here.’ ‘Cause they followed us down from Boston.”"
  },
+ "With the Apollo crowd in a frenzy, Brown had them shouting, “Soul Power! Soul Power! Power to the People! Power to the People!”": {
+  "ch": 5,
+  "page": 122,
+  "sec": "“Revolution of the Mind”",
+  "para": "In 1971, on his third Live at the Apollo recording, titled Revolution of the Mind, James Brown stirred up the audience on his finale by chanting the mantra of the Black Panther Party. With the Apollo crowd in a frenzy, Brown had them shouting, “Soul Power! Soul Power! Power to the People! Power to the People!” Brown understood the mood on the streets like no other artist of the time."
+ },
  "With weapons in our hands we were no longer their subjects but their equals.": {
   "ch": 4,
   "page": 68,
   "sec": "The Ten Point Program",
   "para": "At first, the patrols were a total success. Frightened and confused, the police did not know how to respond, because they had never encountered patrols like this before. They were familiar with the community-alert patrols in other cities, but never before had guns been an integral part of any patrol program. With weapons in our hands we were no longer their subjects but their equals."
+ },
+ "You know what that is? That’s Black Power.”": {
+  "ch": 5,
+  "page": 102,
+  "sec": "1968",
+  "para": "“I’m still a soul brother,” I said at one point, “and you people have made it possible for me to be a first class man in all respects. I used to shine shoes in front of a radio station. Now I own radio stations. You know what that is? That’s Black Power.”"
  },
  "You know, it’s not good to fight the police, you’re gonna lose.": {
   "ch": 4,
@@ -665,5 +887,23 @@ window.LUMPEN_REFS = {
   "page": 3,
   "sec": "“Revolution in the Air”",
   "para": "“Black power,” like soul, was an elusive slogan to define at the time, yet you knew it when you felt it. The live black music show was one site at which people from all walks of life were given a communal space—a radical concept at the time—to behave with abandon. While this might be dismissed as simply a recreational respite from the true grind of the movement, many of the movement’s goals and ideals were formed, focused, and quite literally brought to life there. In the early 1960s, audiences of youth were living integration on the dance floor, witnessing equality—and quite clearly experiencing freedom—with each beat and freeform physical gyration to the music. Their pleasure was in itself a form of political expression, and the politics of pleasure were on full display, shouting down the politics of partisanship."
+ },
+ "“Everything about my stage production I got from James Brown,” recalls Lumpen bandleader William Calhoun.": {
+  "ch": 5,
+  "page": 89,
+  "sec": null,
+  "para": "Throughout their thrilling opening song, the Lumpen utilized the standards and techniques of the James Brown band. Through the use of call-and-response audience interaction, the effective use of physicality on stage, the driving rhythms and counter-rhythms by the band, and the percussive improvised vocalizing, the group signified on the rhythms of the streets while framing the political thrust of the Black Panther Party on the people’s terms. James Brown at this time was an immensely popular icon of black pride, and to some he was considered a revolutionary artist. By using the James Brown performance aesthetic, the Lumpen were asserting the revolutionary black power of their music. “Everything about my stage production I got from James Brown,” recalls Lumpen bandleader William Calhoun. Lumpen singer Michael Torrence recalls:"
+ },
+ "“It all goes back to the Godfather of Soul, James Brown,” hip-hop pioneer Afrika Bambaataa has stated.": {
+  "ch": 5,
+  "page": 122,
+  "sec": "The Rhythm of Resistance",
+  "para": "In the 1980s, when digital sampling technology became available and rap producers compiled their tracks from existing sounds, the choice James Brown beat, grunt, scream, horn riff, or melody became the essential element of hip-hop production. Further, dance music producers tasked with sequencing a segment of music that repeated throughout a song would key into “the One” to keep time. The strong pulse on the downbeat was and remains the timekeeper for Afro-diasporic dance music worldwide. “It all goes back to the Godfather of Soul, James Brown,” hip-hop pioneer Afrika Bambaataa has stated."
+ },
+ "“The Last Poets, the last words before the guns start talking,” as Alafia Purdim stated.": {
+  "ch": 5,
+  "page": 110,
+  "sec": "“Say It Loud”",
+  "para": "The Last Poets began when three New York street poets—Gylan Kain, Felipe Luciano, and Abiodun Oyewole—came together for a 1968 memorial on Malcolm X’s birthday, May 19. They named themselves the Last Poets, referencing a concept from the South African-born Harlem poet Keorapetse “Willie” Kgositsile, who foretold that when the inevitable uprising began, the writers would become the soldiers. The group believed that their efforts signified that they were the last of the poets before the cleansing. “The Last Poets, the last words before the guns start talking,” as Alafia Purdim stated."
  }
 };
