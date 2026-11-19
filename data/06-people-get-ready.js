@@ -190,7 +190,7 @@ LUMPEN.add([
   { id: 'nina-simone', note: 'Lorraine Hansberry, autora de A Raisin in the Sun (1958), fue la mentora política de Simone: «siempre hablábamos de Marx, Lenin y la revolución». Con el título de su obra inacabada, To Be Young, Gifted and Black, Simone escribió la canción en su memoria (1969), que Aretha versionó en 1971.',
     artists: ['Lorraine Hansberry'],
     tracks: [
-      { a: 'Nina Simone', t: 'To Be Young, Gifted and Black', y: 1969, ess: 1 },
+      { a: 'Nina Simone', t: 'Young, Gifted and Black', y: 1969, ess: 1 },
       { a: 'Nina Simone', t: 'I Wish I Knew How It Would Feel to Be Free', y: 1967 },
     ],
     refs: [
