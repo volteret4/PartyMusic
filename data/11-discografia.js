@@ -6,7 +6,7 @@ LUMPEN.add([
     tracks: [
       { a: 'The Lumpen', t: 'Free Bobby Now', y: 1970, ess: 1 },
       { a: 'The Lumpen', t: 'No More', y: 1970, ess: 1 },
-      { a: 'The Lumpen', t: 'Live at Merritt College', y: 1970, ess: 1 },
+      { a: 'The Lumpen', t: 'Live at Merritt College', y: 1970, yq: '-', ess: 1 },
     ],
     refs: [
       { q: 'The Lumpen. “Live,” recording from Merrit College, Oakland, CA. Taped November 10, 1970; from Huey P. Newton collection, Stanford University, Palo Alto, CA.' },
@@ -19,7 +19,7 @@ LUMPEN.add([
   ] },
   { id: 'elaine-brown-discos', tracks: [
     { a: 'Elaine Brown', t: 'Seize the Time', y: 1969, ess: 1 },
-    { a: 'Elaine Brown', t: 'Elaine Brown', y: 1973, ess: 1 },
+    { a: 'Elaine Brown', t: 'Elaine Brown', y: 1973, yq: 'Elaine Brown 1973 album Black Forum', ess: 1 },
   ] },
   { id: 'chicago-soul', tracks: [
     { a: 'The Chi-Lites', t: '(For God’s Sake) Give More Power to the People', y: 1971, ess: 1 },
@@ -59,7 +59,7 @@ LUMPEN.add([
     { a: 'Eugene McDaniels', t: 'Headless Heroes of the Apocalypse', y: 1971, ess: 1 },
   ] },
   { id: 'robeson', tracks: [
-    { a: 'Paul Robeson', t: 'Ballad for Americans and Great Songs of Faith, Love and Patriotism', y: 1989, ess: 1 },
+    { a: 'Paul Robeson', t: 'Ballad for Americans and Great Songs of Faith, Love and Patriotism', y: 1989, yq: 'Paul Robeson Ballad for Americans', ess: 1 },
     { a: 'Paul Robeson', t: 'The Peace Arch Concerts', y: 1998, ess: 1 },
   ] },
   { id: 'gil-scott-heron', tracks: [
@@ -77,7 +77,7 @@ LUMPEN.add([
     { a: 'The Temptations', t: 'My Girl: The Very Best of the Temptations', y: 2002, ess: 1 },
   ] },
   { id: 'motown', tracks: [
-    { a: 'Various Artists', t: 'Motown Classics Gold', y: 2005, ess: 1 },
+    { a: 'Various Artists', t: 'Motown Classics Gold', y: 2005, yq: '-', ess: 1 },
   ] },
   { id: 'watts-prophets', name: 'The Watts Prophets', family: 'palabra', start: 1967, end: 1971, place: 'Los Ángeles (Watts)',
     desc: 'El libro solo los cita en la discografía: Things Gonna Get Greater recoge las grabaciones de 1969-1971 de este trío de poetas de Watts (Richard Dedeaux, Amde Hamilton y Otis O’Solomon), surgido del Watts Writers Workshop tras los disturbios de 1965 y, como los Last Poets en Harlem, precursor del rap político.',

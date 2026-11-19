@@ -2,7 +2,7 @@ LUMPEN.chapter({ n: 9, title: '“Ol’ Pig Nixon”: The Protest Music Traditio
 LUMPEN.add([
   { id: 'lumpen', note: 'Con el público ya en el bolsillo, los Lumpen tocan su número más iconoclasta: «Ol’ Pig Nixon», con Clark Bailey otra vez al frente, calcado estrofa a estrofa de la versión de «Ol’ Man River» de los Temptations (grabada en directo en 1966 y su disco más vendido en In a Mellow Mood). Las armonías que sonaban a tristeza y sumisión cantan ahora «They chained us up they shot us down!», «Never be free while Agnew breathes» y «Ol’ Pig Nixon… he won’t be oinking too long». Probablemente fueron los primeros cantantes negros en cambiar la letra desde Robeson, y los primeros en repolitizarla. Uno de sus últimos conciertos fue el «Soul Day» de San Quentin (mayo de 1971), con Curtis Mayfield y Muhammad Ali: los funcionarios los sacaron del escenario a media canción, pero Calhoun pudo contarle a Mayfield lo que había hecho con «People Get Ready». Calhoun soñaba con un libro sobre Motown titulado «Oh My Lawd They Done Killed the Blues».',
     tracks: [
-      { a: 'The Lumpen', t: 'Ol’ Pig Nixon', y: 1970, ess: 1 },
+      { a: 'The Lumpen', t: 'Ol’ Pig Nixon', y: 1970, yq: '-', ess: 1 },
       { a: 'The Temptations', t: 'Ol’ Man River', y: 1967 },
       { a: 'The Temptations', t: 'The Temptations in a Mellow Mood', y: 1967 },
     ],
@@ -243,4 +243,21 @@ LUMPEN.add([
       { q: '“Ali was the initiator of black consciousness for us,” Mumia Abu-Jamal explained in the documentary Long Distance Revolutionary.' },
       { q: 'Who is to say what the “Power of Soul” may have done to “liberate” those in the yard that day?' },
     ] },
+], 9);
+// Canciones citadas entre comillas que faltaban (tools/mentions.py).
+LUMPEN.add([
+  { id: 'robeson', tracks: [
+    { a: 'Alfred Drake', t: 'Oh, What a Beautiful Mornin’', y: 1943 },
+    { a: 'Ezio Pinza', t: 'Some Enchanted Evening', y: 1949 },
+  ] },
+  { id: 'protesta-folk', tracks: [
+    { a: 'Traditional', t: 'Battle Hymn of the Republic', y: 1862 },
+    { a: 'John Handcox', t: 'Roll the Union On', y: 1937 },
+    { a: 'Kate Smith', t: 'God Bless America', y: 1938 },
+  ] },
+  { id: 'soul-progresivo', tracks: [
+    { a: 'Blowfly', t: 'Hole Man', y: 1971 },
+    { a: 'Blowfly', t: 'Spermy Night in Georgia', y: 1971 },
+    { a: 'Blowfly', t: 'Shitting on the Dock of the Bay', y: 1971 },
+  ] },
 ], 9);

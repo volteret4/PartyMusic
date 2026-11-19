@@ -3,7 +3,7 @@ LUMPEN.add([
   { id: 'lumpen', note: '«For Freedom» es la parodia de «It’s Summer», la balada azucarada de Psychedelic Shack de los Temptations. Calhoun presenta el tema reprochando a los Temptations que, mientras el pueblo no tiene casa, ropa ni comida, solo sepan mandarlo a «cloud nine» porque todo es «a ball of confusion»; canta Clark Bailey. La brisa de verano se convierte en «bullets in the air / snipers everywhere», niños con cócteles molotov y francotiradores en las azoteas: la ideología del Partido en su forma más militante, aunque a finales de 1970 el Partido ya se distanciaba de esas tácticas. Emory Douglas defendió al grupo en The Black Panther («The Lumpen—Music as a Tool for Liberation», noviembre de 1970); Brian Ward los acusó de didácticos, pero el directo demuestra la «política del placer» que usaban. En su gira de finales de 1970 por campus, cuando los nacionalistas de las asociaciones de estudiantes negros rechazaban a sus músicos blancos, el grupo entero exigió que se les tratara como iguales. Sus letras nunca hablan de raza: les bastaba la memoria compartida del soul.',
     artists: ['Clark Bailey', 'Brian Ward'],
     tracks: [
-      { a: 'The Lumpen', t: 'For Freedom', y: 1970, ess: 1 },
+      { a: 'The Lumpen', t: 'For Freedom', y: 1970, yq: '-', ess: 1 },
     ],
     refs: [
       { q: 'There’s only one thing wrong with the Temptations, and that is that their message is all messed up. Black people and oppressed people in this country, they live in indecent housing, they don’t have proper clothing, they don’t have adequate food. And all the Temptations can do is tell you to take to cloud nine, ‘cause it’s all a ball of confusion. What we’ve done is we’ve taken the music of the Temptations and given it a little different message.' },
@@ -169,7 +169,7 @@ LUMPEN.add([
       { a: 'Isaac Hayes', t: 'Black Moses', y: 1971 },
       { a: 'Isaac Hayes', t: 'Theme from Shaft', y: 1971, ess: 1 },
       { a: 'Jesse Jackson', t: 'I Am Somebody', y: 1971 },
-      { a: 'Various Artists', t: 'Wattstax: The Living Word', y: 1972, ess: 1 },
+      { a: 'Various Artists', t: 'Wattstax: The Living Word', y: 1972, yq: 'Wattstax The Living Word soundtrack', ess: 1 },
     ],
     influences: ['gospel', 'soul-60'],
     refs: [
@@ -189,4 +189,8 @@ LUMPEN.add([
       { q: 'Without the black revolution, soul music would not have evolved into the classic genre it is today and likely may never have developed into funk or produced the building blocks of hip-hop.' },
       { q: 'It did not create a lasting economic base for a black nation, but it was a start, and it was funky.' },
     ] },
+], 7);
+// Canciones y grabaciones citadas entre comillas que faltaban (tools/mentions.py).
+LUMPEN.add([
+  { id: 'malcolm-x', tracks: [{ a: 'Malcolm X', t: 'Message to the Grass Roots', y: 1963 }] },
 ], 7);

@@ -4,7 +4,7 @@ LUMPEN.add([
     artists: ['William Calhoun', 'Michael Torrence', 'James Mott', 'Clark Bailey', 'Bobby McClain', 'The Freedom Messengers', 'Ladies Choice', 'Flores Forbes', 'Aaron Dixon', 'Frankie Gaye', 'Rare Earth', 'High Energy', 'Masai Hewitt'],
     labels: ['Merritt College', 'Golden State Studios', 'KSOL', 'Wo’Se Community Church', 'Oakland Community School', 'Oakland Alameda County Coliseum Arena', 'Motown'],
     tracks: [
-      { a: 'The Lumpen', t: 'Revolution Is the Only Solution', y: 1970, ess: 1 },
+      { a: 'The Lumpen', t: 'Revolution Is the Only Solution', y: 1970, yq: '-', ess: 1 },
       { a: 'Marvin Gaye', t: 'Marvin Gaye Live!', y: 1974 },
       { a: 'Marvin Gaye', t: 'Distant Lover', y: 1974 },
     ],
@@ -86,4 +86,8 @@ LUMPEN.add([
       { q: 'Soul music tells us a story of social change in America.' },
       { q: 'The Lumpen group is a crystallization of the revolutionary culture that the Party helped to create.' },
     ] },
+], 10);
+// Canciones citadas entre comillas que faltaban (tools/mentions.py).
+LUMPEN.add([
+  { id: 'freedom-songs', tracks: [{ a: 'Pete Seeger', t: 'We Shall Overcome', y: 1963 }] },
 ], 10);

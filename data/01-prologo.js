@@ -68,7 +68,7 @@ LUMPEN.add([
     labels: ['Vault', 'Black Forum (Motown)'],
     tracks: [
       { a: 'Elaine Brown', t: 'Seize the Time', y: 1969, ess: 1 },
-      { a: 'Elaine Brown', t: 'Elaine Brown', y: 1973 },
+      { a: 'Elaine Brown', t: 'Elaine Brown', y: 1973, yq: 'Elaine Brown 1973 album Black Forum' },
     ],
     influences: ['bpp'],
     refs: [

@@ -2,7 +2,7 @@ LUMPEN.chapter({ n: 6, title: '“People Get Ready”: Civil Rights, Soul Music,
 LUMPEN.add([
   { id: 'lumpen', note: 'Tras dos temas rápidos, la balada: «People Get Ready» de los Impressions convertida en himno de insurrección. Antes de cantarla, Calhoun dedica todo el disco en directo grabado en el Merritt College a Huey P. Newton y la canción a los caídos —Jonathan Jackson, William Christmas y James McClain (asalto al juzgado de Marin, 7 de agosto de 1970), Fred Hampton y Mark Clark (Chicago, 4 de diciembre de 1969), John Huggins y Bunchy Carter (UCLA, 17 de enero de 1969) y Lil’ Bobby Hutton—. La letra cambia el tren de Mayfield por «Revolution’s come / Your only ticket / Is a loaded gun». Calhoun: Mayfield era un amigo de la lucha; James Brown lo fue «hasta que lo compraron». Los Lumpen llevaron el soul optimista de 1965 al extremo militante de 1970.',
     tracks: [
-      { a: 'The Lumpen', t: 'People Get Ready', y: 1970, ess: 1 },
+      { a: 'The Lumpen', t: 'People Get Ready', y: 1970, yq: '-', ess: 1 },
     ],
     refs: [
       { q: 'We’d like to dedicate our entire album to the minister of defense, the supreme commander of the Black Panther Party, Huey P. Newton.' },
