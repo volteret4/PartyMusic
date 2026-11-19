@@ -30,6 +30,12 @@ window.LUMPEN_REFS = {
   "sec": "Soul Power and Black Radio",
   "para": "In Chicago a stream of stylized DJs such as “Lucky” Cordell, Bruce Brown, Purvis Spann, and Herb Kent “the Cool Gent” ruled the airwaves at WVON. Kent and Spann were civil rights activists as well as on-air personalities, and they would provide appropriate commentary for their audiences when events would take place and often broadcast at civil rights events. The programmers at WVON were instrumental in supporting Jesse Jackson’s work on Operation Breadbasket and a number of other local causes. It was a time in black America when the local news was as important as the local music, and the soulful black newscaster was part of the cultural milieu. A fledgling news reporter named Don Cornelius emerged from WVON with a vision to capture black music and dance on his own daily television program, Soul Train. Soul Train would emerge from the cultural matrix of Chicago soul and become a weekly syndicated program out of Los Angeles that defined black cultural identity for decades."
  },
+ "A revolution just arrive like the morning": {
+  "ch": 10,
+  "page": 328,
+  "sec": "“Change It All”",
+  "para": "A revolution just arrive like the morning"
+ },
  "After Mayfield, it was no longer possible for an artist to simply support a movie with a soundtrack, the task was to define it.": {
   "ch": 6,
   "page": 133,
@@ -251,6 +257,12 @@ window.LUMPEN_REFS = {
   "page": 145,
   "sec": "The Black Arts Movement",
   "para": "Although Coltrane and Malcolm X may seem to be opposite figures in disparate universes—the first apolitical and seemingly disconnected from the actual groundswell of the freedom movement, the second firebreathing in his politics and seemingly disconnected from the world of the arts—they did share a broad cultural connection. Both became icons of integrity, figures of an uncompromising and uncolonized black selfhood."
+ },
+ "Brothers and sisters as we close, we would like to thank everyone for coming out tonight / because without the spirit of the people, the Lumpen don’t exist.": {
+  "ch": 10,
+  "page": 310,
+  "sec": null,
+  "para": "Brothers and sisters as we close, we would like to thank everyone for coming out tonight / because without the spirit of the people, the Lumpen don’t exist."
  },
  "Brown’s music, however, did not move with the rhythms of the streets: soul music.": {
   "ch": 2,
@@ -491,6 +503,12 @@ window.LUMPEN_REFS = {
   "page": 303,
   "sec": "Huey Newton and Bob Dylan",
   "para": "Huey says that whites looked at blacks as geeks, as freaks. But what is so symbolic about it is that when the revolution starts, they’ll call us geeks because we eat raw meat. But the geek turns around and hands Mr. Jones a naked bone and says, “How do you like being a freak?” And Mr. Jones says, “Oh my God, what the hell’s going on?”"
+ },
+ "I began to feel that being a poet was a pitiful example of being a revolutionary.": {
+  "ch": 10,
+  "page": 321,
+  "sec": "“You Become What You Sing”",
+  "para": "I wasn’t happy being a poet. I began to feel that being a poet was a pitiful example of being a revolutionary. So, you write a poem, you get up onstage and you say it, you’re a revolutionary. Wow, I mean come on, give me a break. Especially when somebody down the block just fed about ten kids with food stamps. Come on, give me a break, there’s more to do here. So I decided to do more. I joined the Harlem Committee for Self-Defense, which was one of the many offshoots of the Black Panthers. My association with them led to the cops harassing me and caused me to leave New York City. I left tired of violence and fear, and fled to North Carolina where I got deep into Afrocentricism and African culture."
  },
  "I didn’t need melody to make music.": {
   "ch": 5,
@@ -792,6 +810,12 @@ window.LUMPEN_REFS = {
   "sec": "“Say It Loud”",
   "para": "We began to listen to the music of the rhythm and blues people, soul music…. The big hero for the poets was James Brown. We all thought that James Brown was a magnificent poet, and we all envied him and wished we could do what he did. If the poets could do that, we would just take over America. Suppose James Brown had consciousness. We used to have big arguments like that. It was like saying, “Suppose James Brown read Fanon.”"
  },
+ "It was multiracial, it was multiethnic, it was multigender, it was multigenerational, and there was something very palpable about the community of resistance that we were forging.": {
+  "ch": 10,
+  "page": 332,
+  "sec": "Occupy and Arab Spring",
+  "para": "The general strike—I think that when we experience such moments, we have to preserve them for the revolutionary promise that they offer. Obviously revolution is not going to happen in a single day or a single year but there are moments that inspire us. And I can remember on that day and looking around at the people at that gathering, the march…. It was multiracial, it was multiethnic, it was multigender, it was multigenerational, and there was something very palpable about the community of resistance that we were forging."
+ },
  "It was my first civil rights song, and it erupted out of me quicker than I could write it down.": {
   "ch": 9,
   "page": 281,
@@ -851,6 +875,12 @@ window.LUMPEN_REFS = {
   "page": 123,
   "sec": "“Revolution of the Mind”",
   "para": "Shit, we danced to James Brown, “Papa’s Got a Brand New Bag.” James Brown was all right until he started doing these affairs with Nixon. James Brown wasn’t really considered a political animal. Remember we came from the community, and politicizing gained our political consciousness out of the necessity of the times, but we were people who came from the community, and James Brown was the consummate entertainer."
+ },
+ "Jazz vocalist Abbey Lincoln perhaps put it best when she said, “I discovered that you become what you sing. You can’t repeat lyrics night after night as though they were prayer without having them come true in your life.”": {
+  "ch": 10,
+  "page": 320,
+  "sec": "“You Become What You Sing”",
+  "para": "It is not very often that black musicians are able to express their ideas without the constraints of an industry dictating that they compromise, tone down, or radically retreat from their own personal sensibilities simply to sell records. The implications for this are far-reaching on a personal and a societal level. Jazz vocalist Abbey Lincoln perhaps put it best when she said, “I discovered that you become what you sing. You can’t repeat lyrics night after night as though they were prayer without having them come true in your life.” One might imagine that artists, at their best, write and perform the music that they most sincerely believe in. The current climate of corporate-controlled black popular music frequently dictates that artists must do just the opposite."
  },
  "Jimi Hendrix was the cat that said not only can you play guitar, I want you to come up front and do the wild thing.": {
   "ch": 9,
@@ -930,11 +960,29 @@ window.LUMPEN_REFS = {
   "sec": "Preface",
   "para": "My mother, Toni Vincent, was a Panther, and she knew many of the prominent early Party members. One of my earliest memories is of taking a trip to visit Huey P. Newton in the Alameda County courthouse jail and straining to peep through a tiny window to see him. I’ve always seen my mom as a revolutionary. As a child she overcame polio, and while she could walk, travel the world, and join the revolution, she did not move with the freedom of a dancer. She was a revolutionary who did not dance."
  },
+ "My uncle Bobby McClain sang doo-wop in the ‘50s and he always said, “If these people come to see you, make sure they’re glad they came.”": {
+  "ch": 10,
+  "page": 311,
+  "sec": "The Show Ends",
+  "para": "My uncle Bobby McClain sang doo-wop in the ‘50s and he always said, “If these people come to see you, make sure they’re glad they came.” So that was the same thing, we wanted that by the time you left that program, or Lumpen show, that you knew that you had seen something; that it was something you could feel, that you would talk about."
+ },
+ "Mysteriously, the master tapes of that concert have disappeared and only a grainy cassette of the event has been recovered to this point.": {
+  "ch": 10,
+  "page": 312,
+  "sec": "The Show Ends",
+  "para": "That night, a recording console was in the building and a truck was parked outside with recording equipment for the purpose of recording a state-of-the-art live performance of the Lumpen for public sale. They even announced, “We’re recording live tonight at Merritt College,” which was typical for bands to do at the time. (None of the Panthers I interviewed could recall who was recording the show or what happened to that concert tape.) The group then went on their chaotic national tour, after which most of the Freedom Messengers, the all-volunteer backup band, called it quits. Weeks later, the Lumpen singers, along with a new group of backing musicians, went to the Golden State Studios in San Francisco to record overdubs and rerecord some of the songs. The existing tape of the live concert features elements of live and studio-recorded songs. Mysteriously, the master tapes of that concert have disappeared and only a grainy cassette of the event has been recovered to this point."
+ },
  "Newton and Cleaver expelled each other from the Party.": {
   "ch": 8,
   "page": 252,
   "sec": "The Eldridge Rift",
   "para": "The organization had reached a turning point. On February 26, 1971, Panther Party leaders Huey Newton and Eldridge Cleaver (still in exile in Algeria) agreed to speak by phone on a local television program broadcast, ostensibly as a show of Party unity. However, instead of providing a public show of solidarity, the two wound up denouncing one another, exposing and cementing the divide that had been festering behind the scenes for some time. Newton and Cleaver expelled each other from the Party. That fateful phone call was the public acknowledgement of the growing rift between Newton’s notion of a socialist-leaning, politically engaged Panther Party and Cleaver’s notion of a guerilla warfare oriented Party. Within hours, Newton expelled Eldridge Cleaver and his followers from the Party, pushing a large number of committed revolutionaries underground from the very organization that had sustained them and their revolutionary dreams."
+ },
+ "Newton replied by stating that “we can take you down” and set up a round-the-clock picket line outside one of the Grove Street liquor stores of Bill Boyette, then president of Cal-Pak.": {
+  "ch": 10,
+  "page": 315,
+  "sec": "Cal-Pak",
+  "para": "In May 1971 Huey Newton, as the unquestioned leader of the Black Panther Party in the Bay Area, challenged a large black-owned business consortium to donate more goods for the breakfast program. The California State Package Store and Tavern Owners Association (Cal-Pak) had established itself in the East Bay as a successful black-owned operation that “was responsible for the creation of nearly 500 jobs for blacks in the beverage industry throughout California.” The group offered a one-time donation, but Newton demanded regular services in return for continued Panther support. Cal-Pak was resilient, and their leadership refused to capitulate to Newton. Newton replied by stating that “we can take you down” and set up a round-the-clock picket line outside one of the Grove Street liquor stores of Bill Boyette, then president of Cal-Pak. While the daily actions in front of the store provided some entertaining street theater, the taxing use of rank-and-file membership to maintain the picket line was enormous. The boycott lasted nearly a year, and it took the efforts of newly elected Congressman Ron Dellums to negotiate a deal whereby donations could be distributed to a variety of Oakland social work organizations, including the Party. While the entire affair put the business community on notice about its perceived one-way relationship with its patrons, the damage done to the relationship of the Party and local black-owned businesses was considerable."
  },
  "Newton visualized that Panther control of this central commercial hub would provide leverage for instrumental changes at a municipal level to the benefit of his people.": {
   "ch": 7,
@@ -996,6 +1044,12 @@ window.LUMPEN_REFS = {
   "sec": null,
   "para": "The Lumpen began to perform at local Party-sponsored events in the summer of 1970. They started out performing as an unannounced addition to BPP events featuring well-established artists and activists. But their look and sound made people take notice. Onstage, the group had the look of established rhythm and blues groups such as the James Brown Revue and the Temptations. One Panther supporter donated his time and money to make snappy uniforms for the singers, and they hit the stage in style."
  },
+ "Or as Talib Kweli put it in a 2007 rap, “Bushonomics,” “Revolution requires participation.”": {
+  "ch": 10,
+  "page": 329,
+  "sec": "“Change It All”",
+  "para": "One might conclude that economic and political inequality and privilege are so entrenched that people can only turn to the cultural front to imagine a large-scale swing of the political pendulum. But waiting on the world to change is not going to do it. Perhaps Boots Riley was on to something when he came up with his 2007 album title: Pick a Bigger Weapon. Or as Talib Kweli put it in a 2007 rap, “Bushonomics,” “Revolution requires participation.”"
+ },
  "Party Music is structured along a set of songs performed by the Lumpen at a concert in Oakland in November 1970.": {
   "ch": 2,
   "page": 17,
@@ -1038,11 +1092,29 @@ window.LUMPEN_REFS = {
   "sec": "Black Power in Chicago",
   "para": "The black middle class was beholden to the white power structure, and the entire city was organized in similar fashion. To assert political independence within this context was a radical gesture. As a result, Black Nationalists, from the Nation of Islam to the Black Panther Party, were highly organized within this space. Even the street gangs, such as the Blackstone Rangers and the Vice Lords organized themselves in sophisticated multitiered alliances—among each other, with Black Nationalists such as the Panthers briefly, and with the government in exchange for jobs and community grants. Power was sliced up like raw meat in Chicago, and people organized to obtain it."
  },
+ "Really, what Huey and I meant by revolution was the need to revolve more political power, more economic power, back into the hands of the people, that’s really what revolution is.”": {
+  "ch": 10,
+  "page": 333,
+  "sec": "On Revolution …",
+  "para": "In the 1990 documentary Eyes on the Prize, former Black Panther Party chairman Bobby Seale explained the purpose of the organization in terms of revolution: “Now a lot of people call revolution, a confrontation. Really, what Huey and I meant by revolution was the need to revolve more political power, more economic power, back into the hands of the people, that’s really what revolution is.” While this larger view may not jibe with some of the militant rhetoric used by the Panthers during their heyday, the idea remains that Bobby Seale and the Panthers were addressing social inequalities through the means that were at their disposal at the time. The times required a fearless challenge to the power structure, one that told the world that their humanity would not be denied and that they were prepared to fight for their freedom “by any means necessary.”"
+ },
  "Revolution is a serious thing, the most serious thing about a revolutionary’s life.": {
   "ch": 7,
   "page": 204,
   "sec": "Angela Davis",
   "para": "For me revolution was never an interim “thing-to-do” before settling down; it was no fashionable club with newly minted jargon, or a new kind of social life—made thrilling by risk and confrontation, made glamorous by costume. Revolution is a serious thing, the most serious thing about a revolutionary’s life. When one commits oneself to the struggle, it must be for a lifetime."
+ },
+ "Revolution is the only solution say pick up that gun and walk like me": {
+  "ch": 10,
+  "page": 309,
+  "sec": null,
+  "para": "Revolution is the only solution say pick up that gun and walk like me"
+ },
+ "Santa Rita, a member of the party’s vocal group the Lumpen, was a singer, a coordinator, an administrator, and a gunman; whatever needed to be done, he would try to accomplish it.": {
+  "ch": 10,
+  "page": 318,
+  "sec": "Cal-Pak",
+  "para": "Flores called one morning to tell me that Santa Rita had left. Santa Rita, a member of the party’s vocal group the Lumpen, was a singer, a coordinator, an administrator, and a gunman; whatever needed to be done, he would try to accomplish it. And if he couldn’t, he would tell you so. We didn’t have too many brothers like him left. At one time we’d had scores of comrades like Santa Rita all across the country, but losing him just put more pressure on those remaining."
  },
  "Seale, perhaps the most engaging public speaker of all of the Panthers, had been dragged through the most violent underworld of alleged Panther justice, and by the time he was released in late May 1971, the Party was a shell of its original self.": {
   "ch": 8,
@@ -1122,6 +1194,12 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "As the great soul singers began to dominate black popular music—James Brown, Aretha Franklin, Otis Redding, the Temptations, and others—their concerts became spaces of celebration of far more than dance moves. As James Brown put it, “The word soul meant a lot of things, in music and out. It was about the roots of black music, and it was kind of a pride thing too, being proud of yourself and your people. Soul music and the civil rights movement went hand in hand, sort of grew up together.”"
  },
+ "Soul music tells us a story of social change in America.": {
+  "ch": 10,
+  "page": 337,
+  "sec": "Conclusion",
+  "para": "Every song tells a story. Some songs not only reveal stories and provide storytelling narratives, but they generate stories—legends—of their own making. Curtis Mayfield, Aretha Franklin, James Brown: they were a part of the movement, of an awakening, of a revolution. Their songs tell a story of a people in motion. Soul music tells us a story of social change in America."
+ },
  "Soul music—black popular music—would become the template for new movement songs.": {
   "ch": 2,
   "page": 9,
@@ -1151,6 +1229,12 @@ window.LUMPEN_REFS = {
   "page": 99,
   "sec": "James Brown and Black Power",
   "para": "Stokely [Carmichael] said I was the one person who was most dangerous to his movement at the time because people would listen to me."
+ },
+ "That could change it all, change it all, change it all.": {
+  "ch": 10,
+  "page": 328,
+  "sec": "“Change It All”",
+  "para": "That could change it all, change it all, change it all."
  },
  "That the oppressor has no rights we are bound to respect": {
   "ch": 8,
@@ -1187,6 +1271,12 @@ window.LUMPEN_REFS = {
   "page": 178,
   "sec": "Dancing in Detroit",
   "para": "[The League] believed that the Oakland-based Black Panther Party was moving in the wrong direction by concentrating on organizing lumpen elements of the Black community. The League did not believe that a successful movement could be based upon the lumpen as they lack a potential source of power. The League believed that Black workers were the most promising base for a successful Black movement because of the potential power derived from their ability to disrupt industrial production."
+ },
+ "The Lumpen group is a crystallization of the revolutionary culture that the Party helped to create.": {
+  "ch": 10,
+  "page": 337,
+  "sec": "Conclusion",
+  "para": "The Black Panthers were a part of a cultural revolution in America, in which a dispossessed and disheartened population redefined itself and staked a claim to self-determination. The Lumpen group is a crystallization of the revolutionary culture that the Party helped to create. Through music, the potential for cultural memory always exists, so that the power of soul music may one day take form again in the manifestation of a people’s movement."
  },
  "The Lumpen may have been the first African American singers to dramatically alter the lyrics of the song in any way since Robeson, and certainly the first to repoliticize it.": {
   "ch": 9,
@@ -1290,6 +1380,12 @@ window.LUMPEN_REFS = {
   "sec": "Soul Apocalypse",
   "para": "Some of the most dramatic turns in black music took place from 1969 to ‘71, the time the Lumpen were performing. The epic performances of Jimi Hendrix and Sly and the Family Stone at Woodstock in 1969, the jazz fusion experiments of Miles Davis’s Bitches Brew and Jack Johnson sessions, the first recordings by Mandrill, Kool and the Gang, Earth, Wind & Fire, Ohio Players, and Funkadelic sparked a decade of black musical innovation. The goal for many was no longer the three-minute 45 rpm single, it was to make a statement with their craft."
  },
+ "The hippies are the ones, along with the Black Panthers, who made a change in the United States forevermore.": {
+  "ch": 10,
+  "page": 336,
+  "sec": "On Revolution …",
+  "para": "But one thing that I knew [in the 60s] was that things were not going to be the same between young people and the United States government, because we realized that we have a different kind of power than the Pentagon. We have the power to put the pressure on the United States government and we got them out of Vietnam. We the hippies. When I say hippies I mean conscious people. Some people try to stereotype the hippies as people who just get loaded, and wear rainbow shirts and they don’t know nothing. Hippie people are conscious people. In Hitler’s time it was the beatniks and bohemians in the French Resistance. The hippies are the ones, along with the Black Panthers, who made a change in the United States forevermore."
+ },
  "The hit song “There Was a Time” traces the history of a people through their dances, and achieves in the process something of a rhythm and blues epic poem….": {
   "ch": 5,
   "page": 90,
@@ -1325,6 +1421,12 @@ window.LUMPEN_REFS = {
   "page": 113,
   "sec": "“Say It Loud”",
   "para": "In 1970 Brown’s amassed wealth and public presence as a black media entrepreneur was a highly admired aspect of Brown’s cultural leadership. While his many business ventures often appeared haphazard, to many of Brown’s fans it appeared inexplicable that a steadfast black capitalist of the stature of Brown, whose properties were well known and admired throughout the black community, could manage to lose control of his empire within a few short years. It was later revealed that Brown was a victim of the Special Services Committee of the IRS, which illegally spied on US citizens in an effort to harass, discredit, and destroy political opponents of President Richard Nixon. In 1974 a congressional investigation of the doomed Nixon administration found that, at the request of the president, the IRS illegally spied on thousands of individuals and organizations that it claimed harbored “extremist views and philosophies.” The investigation produced a list with more than eleven thousand names. James Brown’s name was on it. While Brown continued to record and perform worldwide, his empire was quietly dismantled, and his ability to build a black-oriented economic infrastructure based upon his vast popularity was sabotaged. It was done quietly, but a case can be made that Brown was seen by the government as a political threat and was made an example by forces beyond his control specifically because he was a black entertainer with a political vision for his people."
+ },
+ "The loudspeakers at the central plaza blasted James Brown’s “The Payback” (an anthem of the Occupy Movement if there ever was one) in rotation with other celebratory dance songs.": {
+  "ch": 10,
+  "page": 332,
+  "sec": "Occupy and Arab Spring",
+  "para": "In response, city officials retreated in embarrassment, and the Occupiers announced a general strike, in which the entire population was invited to spend the day in downtown Oakland on November 1, to take children out of classes, to skip work, and occupy the central city with an all-day festival, followed by a march to the nearby Port of Oakland to protest the economic exploitation taking place at the commercial freight transportation hub. The day was a spectacle, as free food, free music, and free people thrived in the streets of the city for hours, without police presence or a profit motive to contain the revelers. For a moment, a free space had been created. The loudspeakers at the central plaza blasted James Brown’s “The Payback” (an anthem of the Occupy Movement if there ever was one) in rotation with other celebratory dance songs. Angela Davis was at the event, along with thousands of others:"
  },
  "The members of the Lumpen traversed the crossroads between revolutionary politics and revolutionary culture.": {
   "ch": 3,
@@ -1373,6 +1475,12 @@ window.LUMPEN_REFS = {
   "page": 108,
   "sec": "“Say It Loud”",
   "para": "The song cost me a lot of my crossover audience. The racial makeup of my concerts was mostly black after that. I don’t regret recording it, though, even if it was misunderstood. It was badly needed at the time. It helped the Afro-Americans in general and the dark-skinned man in particular. I’m proud of that."
+ },
+ "The thought came to me, What good would it do for me to die here tonight?": {
+  "ch": 10,
+  "page": 314,
+  "sec": "The Show Ends",
+  "para": "Sukari, my woman in the Party, was pregnant with Jamil, with James. And I was beginning to think about that. I had been on duty one night—on guard duty—one night at national headquarters. And there was a practice vamp. The police used to just do that all the time. About three or four o’clock in the morning they just come out of nowhere, be three or four rows deep, in their riot gear and the FBI patrol up and down in front, just trying to intimidate us. But one night when they did a practice vamp, I’m sitting there, my AK in my lap, looking at them looking at me and thinking about the fact that I have a baby coming. The thought came to me, What good would it do for me to die here tonight? What does that accomplish? What does that change? And that’s the first time I had a thought like that. A couple of months later, something came in my head and said leave, and I left."
  },
  "The title of this book is borrowed from the name of one of Boots Riley’s albums.": {
   "ch": 1,
@@ -1458,6 +1566,12 @@ window.LUMPEN_REFS = {
   "sec": "The 45 rpm Single",
   "para": "As the verses continue to roll on, the singing takes on more passion as lead vocalist Calhoun utilizes the patented Ray Charles formula for soaring over the verses with repetitions designed to bring home the message. “No More” is, in this sense, a familiar soul song that builds in intensity throughout its four-minute length. One is informed by the compelling lyrics and absorbed by the passionate performances of the singers and musicians in unison. It is interesting that in the final verse the singers announce a solution to the evils around them, a militant solution: “We’ll get guns to defend our community.” These lyrics represent the effective climax of the song both emotionally and ideologically."
  },
+ "These transformations … require us to call ourselves “intercommunalists” because nations have been transformed into communities of the world.": {
+  "ch": 10,
+  "page": 334,
+  "sec": "On Revolution …",
+  "para": "In 1966 we called ourselves a Black Nationalist Party because we thought that nationhood was the answer…. Shortly after that we decided that what we really needed was revolutionary nationalism, that is, nationalism plus socialism. After analyzing conditions a little more we found … we had to unite with the peoples of the world so we called ourselves Internationalists…. But then … we found that everything is in a state of transformation…. These transformations … require us to call ourselves “intercommunalists” because nations have been transformed into communities of the world."
+ },
  "They belonged; I didn’t.": {
   "ch": 2,
   "page": 5,
@@ -1475,6 +1589,12 @@ window.LUMPEN_REFS = {
   "page": 307,
   "sec": "Soul Day at San Quentin",
   "para": "Curtis Mayfield was there, Muhammad Ali was there, we were there, and believe me they didn’t know we were coming. They cut us off almost as soon as we got started. They didn’t know who we were. We were there, at any rate. And I did get a chance to tell him [Curtis Mayfield] what I had done. Him and Ali were the stars of the day. It was the only time I met Muhammad. He was incredible, just incredible. Curtis was … very open, very giving, very generous with us, or at least with me, and what we were trying to accomplish."
+ },
+ "They dictate the taste of the streets, and people can’t miss what they never knew.": {
+  "ch": 10,
+  "page": 325,
+  "sec": "The Revolution Will Not Be Transmitted",
+  "para": "…decree that they would only support material and artists with positive messages then 99% of those making music now would switch up to accommodate. That’s real talk. I’m not saying these labels should (or would), but if they did, gangstas would stop being gangstas and misogynists would stop being misogynists at the drop of a DIME. Many artists are like children, and most will say and do what is expected of them in order to benefit financially. And although there is definite self-examination that needs to take place within the artist community, the lion’s share of the blame falls on the enablers who only empower voices of negativity. Record labels and commercial radio often use the excuse that they are “responding to the streets” and that they are “giving the people what they want.” BULLSHIT. They dictate the taste of the streets, and people can’t miss what they never knew. The fact is that there are conscious decisions made by the big business and entertainment elite daily about what to present to the masses—and it is from those choices that we are allowed to decide what we do and do not like. Who presents the music that callers are invited to “make or break” on the radio? That callers are invited to “vote on” on T.V.? Who decides on what makes it to the store shelves or the airwaves at all? Like I said, life imitates art, and pseudo-black culture is determined by those other than us every day. Walk into any rap label or urban radio station and you can count the number of black employees on one"
  },
  "They reminded me of the Delfonics, only they made themselves a little bit more political.": {
   "ch": 3,
@@ -1704,6 +1824,12 @@ window.LUMPEN_REFS = {
   "sec": "“The One”",
   "para": "What was missing for me and my people was the rhythm of our own revolution—a soundtrack strong enough to bring us to the outside rather than keep us on the inside."
  },
+ "When Boots Riley of the rap group the Coup was starting his career in 1993, he discovered that he could get his edgy, anticapitalist rap videos aired on BET nationwide by producing on a shoestring budget and shipping his videos on a VHS tape directly to BET.": {
+  "ch": 10,
+  "page": 324,
+  "sec": "The Revolution Will Not Be Transmitted",
+  "para": "When Boots Riley of the rap group the Coup was starting his career in 1993, he discovered that he could get his edgy, anticapitalist rap videos aired on BET nationwide by producing on a shoestring budget and shipping his videos on a VHS tape directly to BET. In today’s climate of intense industry control, the radically anticorporate rap group, which consistently packs houses worldwide and ships records in the hundreds of thousands, has virtually no chance of being heard or seen on corporate-controlled radio or television."
+ },
  "When I came in the Party I had a dashiki on.": {
   "ch": 7,
   "page": 194,
@@ -1745,6 +1871,12 @@ window.LUMPEN_REFS = {
   "page": 7,
   "sec": "“Revolution in the Air”",
   "para": "When the 1960s began, rock and roll as a pop phenomenon was defined by Elvis Presley gyrating his hips on national television in an imitation of the Memphis soul brothers he had learned from. When the sixties ended, rock was defined by Jimi Hendrix abusing the “Star-Spangled Banner” at the Woodstock concert in August 1969. When the sixties began, jazz was defined by John Coltrane’s soaring spirituality and Quincy Jones’s pop sophistication. When the decade ended, jazz was defined by Miles Davis’s electronic swamp dirge at the Bitches Brew sessions. Black dance music began the sixties with the joyous, rowdy rocking of Ray Charles and ended with James Brown and Aretha Franklin righteously ripping into the souls of their audiences."
+ },
+ "While Obama tactically avoided the representation of the black radical era and the black radical movement, he was clearly a product of it.": {
+  "ch": 10,
+  "page": 329,
+  "sec": "Obama and the Change Generation",
+  "para": "The year 2008 represented a generational shift in national politics as well as the nature of participatory electoral politics, as the most diverse generation in the nation’s history participated in the election of the first African American president of a majority white country, Barack Hussein Obama. To a large degree, many of the issues that had ripped apart the social fabric of the United States in 1968 were still in play and were symbolically confronted and woven together in the watershed events of 2008. The bitter racial divide of the 1960s that compelled so many African Americans to actively engage in armed self-defense of their communities also spawned a generation of activity in the realm of community activism and local electoral politics. While Obama tactically avoided the representation of the black radical era and the black radical movement, he was clearly a product of it."
  },
  "While the US-Panther conflict did not begin with the UCLA shootout in January 1969, that event marked the beginning of the end of Black Nationalist coalitions, and perhaps of the movement overall.": {
   "ch": 7,
@@ -1848,6 +1980,12 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "“Black power,” like soul, was an elusive slogan to define at the time, yet you knew it when you felt it. The live black music show was one site at which people from all walks of life were given a communal space—a radical concept at the time—to behave with abandon. While this might be dismissed as simply a recreational respite from the true grind of the movement, many of the movement’s goals and ideals were formed, focused, and quite literally brought to life there. In the early 1960s, audiences of youth were living integration on the dance floor, witnessing equality—and quite clearly experiencing freedom—with each beat and freeform physical gyration to the music. Their pleasure was in itself a form of political expression, and the politics of pleasure were on full display, shouting down the politics of partisanship."
  },
+ "“Do you want to leave bad enough to die?”": {
+  "ch": 10,
+  "page": 316,
+  "sec": "Cal-Pak",
+  "para": "“Do you want to leave bad enough to die?” I said, I don’t understand the question. He said, “Brother, do you want to leave bad enough to DIE!” And I said, “Well—” and he said, to one of the other brothers, “Hey, show him what I mean,” and the guy pulled out a .357 and put it to my head. And at that point, you know, ain’t no shame in my game, I went down and I said, “No, brother, I don’t want to die.” I went down to my knees because, see, I knew these guys would do it. I had been trained to do it."
+ },
  "“Eddie’s solution was simpler,” original member Otis Williams recalled: “The Temptations would go on strike—no more tours, no more records.”": {
   "ch": 7,
   "page": 176,
@@ -1901,6 +2039,18 @@ window.LUMPEN_REFS = {
   "page": 253,
   "sec": "The Eldridge Rift",
   "para": "The crises that befell the organization were not conducive to the production of rhythm and blues concerts, no matter how ideologically aligned they may be. But it wasn’t because the group did not have supporters. As William Calhoun recalls, there were plans in the works for more tours: “There almost was three [tours] until Eldridge and Huey split up. Eldridge was going to bring us to Algiers, but then that blew up.”"
+ },
+ "“We Shall Overcome” has succumbed to “Get Rich or Die Tryin’.”": {
+  "ch": 10,
+  "page": 323,
+  "sec": "The Revolution Will Not Be Transmitted",
+  "para": "The youth of today are not exposed to high-profile volunteer racial-justice organizations, such as the Student Nonviolent Coordinating Committee, the US Organization, or the Black Panther Party for Self-Defense. The Nation of Islam remains an established and respected institution of black self-help and community building, but its role and influence have diminished from its zenith in the 1960s. The youth today do not experience the cohesion of a geographically or economically self-contained black community. Class fractures and the glorification of individualism and “getting mine” have driven deep fissures into the once-salient notion of a black community. “We Shall Overcome” has succumbed to “Get Rich or Die Tryin’.” The increase of ethnic heterogeneity in urban areas has coerced many people into defensive self-definitions, into spurious claims of what type of community they are against, as opposed to what inclusive visions they are for."
+ },
+ "“We never saw a penny for what we did,” James Mott recalls.": {
+  "ch": 10,
+  "page": 312,
+  "sec": "The Show Ends",
+  "para": "As the program on this night concluded, the Lumpen members turned around and took down their equipment, loaded it, and prepared for their East Coast tour, which was about to begin. After the rousing concert, the group members were afforded little fanfare before taking on their Panther duties. No autographs, no interviews with interested media representatives, and certainly no money came their way. “We never saw a penny for what we did,” James Mott recalls."
  },
  "“We went to KDIA, and the DJ—I forgot his name—was sweating like a pig.” Michael Torrence recalls.": {
   "ch": 8,
