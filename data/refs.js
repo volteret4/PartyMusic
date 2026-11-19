@@ -6,6 +6,18 @@ window.LUMPEN_REFS = {
   "sec": "Framing the Black Revolution",
   "para": "A confluence of events in 1965 sparked a new branch of the movement, one in which the aspects of nonviolent civil disobedience began to lose their relevance. The assassination of Malcolm X on February 21 initiated a widespread reappraisal of his writings and speeches by a new generation of young rebels. Fractures within the movement began to emerge, which brought contradictory value systems among blacks into view. The passage of the Voting Rights Act in August 1965, only weeks after the brutal beatings of civil rights marchers in Selma, Alabama, was considered a fallacy by many dispossessed people (though liberal lawmakers considered it a hard-fought victory against staunchly racist opposition). The frustration reached a breaking point when South Central Los Angeles exploded in the Watts uprising on August 11, 1965."
  },
+ "After smoking the groove, in unison the band shout-sings the chorus, “We got a message to the people / saying off the pigs! Off the pigs!” as the stirring horns punctuate the groove and elevate the energy of the space.": {
+  "ch": 4,
+  "page": 50,
+  "sec": null,
+  "para": "After smoking the groove, in unison the band shout-sings the chorus, “We got a message to the people / saying off the pigs! Off the pigs!” as the stirring horns punctuate the groove and elevate the energy of the space."
+ },
+ "Among the musical leaders of this revolution were the iconoclastic folk singer turned social commentator Bob Dylan, the adventurous British rock and roll quartet the Beatles, the Seattle-bred guitarist Jimi Hendrix, the Afro-Latin rock stylist Carlos Santana, the psychedelic troubadours the Grateful Dead, and the meteoric Sly and the Family Stone.": {
+  "ch": 4,
+  "page": 56,
+  "sec": "The Bay Area and the counterculture Revolution",
+  "para": "Among the musical leaders of this revolution were the iconoclastic folk singer turned social commentator Bob Dylan, the adventurous British rock and roll quartet the Beatles, the Seattle-bred guitarist Jimi Hendrix, the Afro-Latin rock stylist Carlos Santana, the psychedelic troubadours the Grateful Dead, and the meteoric Sly and the Family Stone. With national hits that appealed to both black and white audiences, Sly and the Family Stone was the most universally popular."
+ },
  "And in the early sixties, artists like Sister Odetta, Oscar Brown Jr., Max Roach and Abbey Lincoln with their We Insist! Max Roach’s Freedom Now Suite, or Nina Simone’s “Mississippi Goddam” and “Young, Gifted and Black” had reflected the Southern struggle.": {
   "ch": 2,
   "page": 3,
@@ -41,6 +53,18 @@ window.LUMPEN_REFS = {
   "page": 16,
   "sec": "Framing the Panthers",
   "para": "A number of young Panthers incorporated their artistic talents in the pursuit of their revolutionary dreams. Emory Douglas, who survived incarceration in a youth reform school by learning the printing trade, became involved with playwright and activist Amiri Baraka during Baraka’s visiting lectureship at San Francisco State in the spring of 1967. Douglas designed the sets for the traveling plays that Baraka and others would perform in the area. Douglas then worked with Bobby Seale to design the first editions of the Black Panther newspaper, and joined Seale and other Panthers on their famous visit to the Sacramento state capitol to protest pending gun restrictions. As minister of culture for the Black Panther Party, Douglas would design the vast majority of issues of the Black Panther through the 1980s. Through sharp and vivid imagery he celebrated the revolutionary warrior, and revolutionary ideals, while characterizing police and members of the power structure as filthy pigs. Douglas would become—and remains—a central figure in the propagation of the revolutionary ideology of the Black Panther Party."
+ },
+ "At that point in time, I said that the music that we write is going to send a message.": {
+  "ch": 4,
+  "page": 80,
+  "sec": "James Mott and the Sacramento Black Panther Party",
+  "para": "Early on in his musical development, Mott was influenced by the lyrical mastery of the Motown groups and their positive portrayal of life. “When you heard that music in our era, it sent a message … so the lyrics, the content, that gave that message was something that stuck in my mind. At that point in time, I said that the music that we write is going to send a message. The music that we do is going to send a message.” Mott would prove himself prophetic on this point."
+ },
+ "Between 1940 and 1950, the Bay Area’s black population grew from 21,000 to 150,000.": {
+  "ch": 4,
+  "page": 57,
+  "sec": "Oakland Stroke",
+  "para": "Filled with a rush of migrants from the South lured by the promise of work in the war effort, the Bay Area’s black population increased dramatically during World War II. Between 1940 and 1950, the Bay Area’s black population grew from 21,000 to 150,000. Initially, many of the new blacks on the West Coast thrived. They set up commercial districts and cultural spaces in the Fillmore District in San Francisco and along Seventh Street in West Oakland that drew popular black jazz and blues stars from across the country."
  },
  "Black dance music began the sixties with the joyous, rowdy rocking of Ray Charles and ended with James Brown and Aretha Franklin righteously ripping into the souls of their audiences.": {
   "ch": 2,
@@ -78,6 +102,12 @@ window.LUMPEN_REFS = {
   "sec": "Foreword",
   "para": "During the 1920s, musical artists close to or in the Communist Party USA were debating the most effective music to accompany the militant strikes, shut-downs, and factory occupations that were happening as a result of their organizing efforts. According to the book Folk Music and The American Left by Richard Reuss, composers like Charles Seeger (Pete Seeger’s father) were arguing the position that folk music—although popular—was largely apolitical and was not a suitable vessel for revolutionary messaging. It was considered apolitical at the time. They argued that the style most suited to revolution was a more symphonic approach, reminiscent of the Romantic Era music that bore the Internationale. After all, this was the music of the European left, where revolutions were happening. The folk music side of the debate was a logical one—folk music was the music that the people were listening to. This is where they needed to be. Composers like Charles Seeger were eventually won over and became an advocate and producer of revolutionary folk music."
  },
+ "Each of these young men had learned music for the joy of it and had so deeply internalized the politics of their time and place that they were willing and able to transform their fiercely revolutionary spirit into song.": {
+  "ch": 4,
+  "page": 81,
+  "sec": "James Mott and the Sacramento Black Panther Party",
+  "para": "The Lumpen members from the outset were straddling contradictions. Bandleader Calhoun had experience working in bars and strip clubs. This knowledge allowed him to effectively emcee the proceedings of the Lumpen live shows from behind his electric piano. Calhoun’s experience in the seedy underworld of entertainment ironically gave his delivery of funky rhythm and blues a certain credibility. Clark “Santa Rita” Bailey’s soulful lead singing was an amalgamation of his Panther politics, his classical musical training, and his extralegal past. James Mott was talkative offstage, but onstage he let his dynamic visuals—his large facial features and towering afro—make the strongest impression. Michael Torrence was politically well read, astute, and analytical, yet his dancing steps were smooth enough to stabilize the stage show. Each of these young men had learned music for the joy of it and had so deeply internalized the politics of their time and place that they were willing and able to transform their fiercely revolutionary spirit into song."
+ },
  "For a time, however, there was quite clearly revolution in the air.": {
   "ch": 2,
   "page": 13,
@@ -89,6 +119,12 @@ window.LUMPEN_REFS = {
   "page": "xiv",
   "sec": "Preface",
   "para": "Could one be funky and a revolutionary at the same time? I wrestled with this notion as I wrote my first book, Funk: The Music, the People and the Rhythm of The One. The great funk bands and musicians of the 1970s were to me expressions of the freedom that the black power movement fought so hard to establish. These were the dancing revolutionaries I thought I was looking for. For me, Don Cornelius’s Soul Train was one big black power dance party. But the volumes of history I read gave the impression that the movement people and the entertainers inhabited opposite banks of that river to freedom. How were black power and soul music connected?"
+ },
+ "For this performance, Panther supporter “Sister Candace” brings the same energy and cadence, but chants, “Hey, get up! And make revolution! / Get on up! And make revolution!”": {
+  "ch": 4,
+  "page": 50,
+  "sec": null,
+  "para": "“Hey, get up! And dance to the music / Get on up! And dance to the music!” For this performance, Panther supporter “Sister Candace” brings the same energy and cadence, but chants, “Hey, get up! And make revolution! / Get on up! And make revolution!”"
  },
  "From Watts to Brownsville, we find misery": {
   "ch": 3,
@@ -120,17 +156,41 @@ window.LUMPEN_REFS = {
   "sec": "Framing the Panthers",
   "para": "Douglas designed the artwork on the first album release of Panther-based music by Elaine Brown, titled Seize the Time. In 1968 Elaine Brown, then a young Los Angeles chapter leader, began to write songs—revolutionary ballads—that she sang while playing the piano. In the crisis following the 1969 UCLA shoot-out in which Panthers John Huggins and Alprentice “Bunchy” Carter were killed, Elaine Brown sang some of her songs to a group of grieving Panthers that included David Hilliard. Hilliard anointed one of Brown’s songs (“The Meeting”) the Black Panthers’ national anthem and proclaimed that Brown should record her music for the revolution. Her album was recorded in Los Angeles under the guidance of iconoclastic jazz arranger Horace Tapscott. The album, Seize the Time, was a vivid representation of Panther Party ideals that included Brown’s written commentary as well as Douglas’s artwork. It was sold at Party functions and was advertised in the Black Panther as part of the Party’s early efforts to disseminate their message to the community through music. Elaine Brown’s music was compelling message music, sung as dramatically arranged ballads. Brown’s music, however, did not move with the rhythms of the streets: soul music."
  },
+ "His mother had furnished him with piano lessons, so he introduced me to the music of Tchaikovsky.": {
+  "ch": 4,
+  "page": 64,
+  "sec": "The Rise of the Black Panther Party",
+  "para": "Huey’s mother gave him piano lessons. Childhood friend David Hilliard was impressed with Huey’s diverse talents and recalls, “Huey loved classical music. His mother had furnished him with piano lessons, so he introduced me to the music of Tchaikovsky. He loved The Nutcracker. One of his favorite songs was Rimsky-Korsakov’s ‘Flight of the Bumblebee.’ “"
+ },
+ "I got this scholarship at Stanford playing “Flight of the Bumblebee” on the piano.": {
+  "ch": 4,
+  "page": 74,
+  "sec": "Lumpen Members’ Road to the Black Panther Party",
+  "para": "So if I moved here or there, one thing consistent for me was my music. I was able to continue to take these lessons that I had been taking. I took lessons all the way through all the bullshit. And it was basically the classical background, it wasn’t rhythm and blues or anything. I was playing Beethoven and stuff. I got this scholarship at Stanford playing “Flight of the Bumblebee” on the piano. That was my way of keeping sane through all the madness that was going on in my life as a young man."
+ },
  "I said freedom got a shotgun / oh yeah!": {
   "ch": 2,
   "page": 9,
   "sec": "“Revolution in the Air”",
   "para": "I said freedom got a shotgun / oh yeah!"
  },
+ "I said, “Why not?” I never caught on to that thing, discrimination.": {
+  "ch": 4,
+  "page": 53,
+  "sec": "“Dance to the Music”",
+  "para": "There was people saying, “You gonna pay the girls as much as you pay the guys?” I said, “Why not?” I never caught on to that thing, discrimination. I wanted the band to represent as much variety of soul as possible. And I thought if people could see that, see all these different people having fun on stage, they can go ahead and relax, you know."
+ },
  "I think Bro Sam Cooke (peace be unto him) might have got in first with “A Change Is Gonna Come.”": {
   "ch": 2,
   "page": 3,
   "sec": "“Revolution in the Air”",
   "para": "But now something slightly different. Political consciousness moved into the popular arena. Soul, rhythm and blues, stuff that had been purely commercial, dance music, entertainment. I think Bro Sam Cooke (peace be unto him) might have got in first with “A Change Is Gonna Come.” After that we talking about people like Marvin Gaye, “What’s Going On,” Brother Curtis Mayfield, “We’re a Winner,” “Keep On Pushing,” “People Get Ready,” Sister Aretha Franklin’s “Respect,” and of course, the King of Soul, Brother James Brown’s “Say It Loud (I’m Black and I’m Proud.)” This music reached people we couldn’t otherwise reach. How effectively I can’t say. But from it, one sensed an exuberant mood in the community."
+ },
+ "I thought I knew what music was about until I heard my first Ray Charles record.": {
+  "ch": 4,
+  "page": 72,
+  "sec": "Lumpen Members’ Road to the Black Panther Party",
+  "para": "I thought I knew what music was about until I heard my first Ray Charles record. What little I know about piano, I learned sitting down imitating Ray Charles records. Michael McDonald has said that “when you first hear Ray Charles, the first time, he touches something down inside you didn’t even know was there. And you spend the rest of your career trying to find it again.” And that’s exactly what happened to me."
  },
  "I was a groupie for the Lumpen.": {
   "ch": 3,
@@ -149,6 +209,12 @@ window.LUMPEN_REFS = {
   "page": 6,
   "sec": "“Revolution in the Air”",
   "para": "I went to a Free Huey Rally at the federal building in SF, and met many brave Panthers. Went on a mission with Kathleen Cleaver in Hunter’s Point because my beloved was one of her self-appointed guards. Captured body and soul by the rally and the love and energy of black people. My favorite retort to almost anything soon became “And how does that free the people?” I was dogmatic and insufferable, but could dance you down at a house party!"
+ },
+ "In 1967 Newton secured the use of the Diggers’ “communication company” to print the first issues of the Black Panther paper.": {
+  "ch": 4,
+  "page": 66,
+  "sec": "The Rise of the Black Panther Party",
+  "para": "Huey Newton was also familiar with the alternative lifestyles of the residents of the Haight-Ashbury district of San Francisco, who were leading their own social revolution. Newton followed the activities of the Diggers, an infamous group of actors, artists, and rebels who promoted a vision of society free from private property. The Diggers gave away food at a series of “free stores” and used the energy of the people and donations from the community to maintain them. They performed guerilla street theater (such as the “End of Money Parade”) and also began the first “free clinic” in the Haight. All of these activities would become central elements of Black Panther community practices. In 1967 Newton secured the use of the Diggers’ “communication company” to print the first issues of the Black Panther paper."
  },
  "In February 1971 Newton expelled Eldridge Cleaver from the Party after a critical public confrontation he had with Cleaver by phone from Algeria.": {
   "ch": 3,
@@ -186,6 +252,12 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "During the early years of the civil rights movement, the black church was the central organizing structure and spiritual home base for a generation seeking to work up the courage to challenge white racist violence. One fundamental element of the black church experience was and is the music, the timeless sounds of salvation that have passed from generations of slaves to the present day. These sorrow songs would eventually morph into freedom songs, and the church became the source of inspiration for the movement. Martin Luther King Jr. utilized the power of spirituals to keep him going through the desperate times, and specifically requested that Mahalia Jackson perform before his “I Have a Dream” speech at the March on Washington in 1963. Jackson was on the stage during Dr. King’s famous speech and urged King to leave his scripted text, shouting, “Tell them about your dream, Martin! Tell them about the dream!” Mahalia Jackson’s presence may have been the spark that made a legend out of the man on that unforgettable day."
  },
+ "Music from the ‘40s, you know, Sarah Vaughan, Billy Eckstine, you name it, then all the way up to James Brown, Sam Cooke, Lou Rawls, there was always music around the house.": {
+  "ch": 4,
+  "page": 76,
+  "sec": "Lumpen Members’ Road to the Black Panther Party",
+  "para": "I grew up around music. My mother is very musical; my mother used to be a drummer. There was just always music in the house. Music from the ‘40s, you know, Sarah Vaughan, Billy Eckstine, you name it, then all the way up to James Brown, Sam Cooke, Lou Rawls, there was always music around the house."
+ },
  "My mother, Toni Vincent, was a Panther, and she knew many of the prominent early Party members.": {
   "ch": 1,
   "page": "xiv",
@@ -210,6 +282,12 @@ window.LUMPEN_REFS = {
   "sec": null,
   "para": "The drama of the proposed Olympic boycott was one of the most consuming international stories of 1968. Some black athletes, such as Lew Alcindor (later known as Kareem Abdul-Jabbar), then an All-American basketball star at UCLA, honored the boycott and refused to participate in the Olympic games. The climate of protest was pervasive and tense, and as a result, the boycott plan and Edwards himself would fade into the background as the games approached. The remaining athletes were left to choose their own method of protest. On October 16, after their medal-winning performances in the Olympic two-hundred-meter final, San Jose State students Smith and Carlos would shock the world by raising their black power fists on the victory stand in Mexico City."
  },
+ "One might say that this generation of black migrants was able to imagine freedom in a different way from their southern counterparts as they watched the sun set across the infinite California coastline.": {
+  "ch": 4,
+  "page": 58,
+  "sec": "Oakland Stroke",
+  "para": "This West Coast tradition of political radicalism and self-determination developed apart from the southern civil rights struggle. While the proscriptions of Jim Crow—presumptions of black inferiority, enforced segregation, police brutality, and inherent white privilege—were commonplace in the American West in the mid-twentieth century, West Coast blacks did not witness the daily references to slavery, nor were they forced to traverse Civil War memorials at every turn. They were also distant from the multigenerational networks of churches and predominantly black colleges and had to be innovative and progressive in their far-reaching efforts at black self-determination. One might say that this generation of black migrants was able to imagine freedom in a different way from their southern counterparts as they watched the sun set across the infinite California coastline."
+ },
  "Onstage, the group had the look of established rhythm and blues groups such as the James Brown Revue and the Temptations.": {
   "ch": 3,
   "page": 31,
@@ -227,6 +305,36 @@ window.LUMPEN_REFS = {
   "page": 35,
   "sec": "The 45 rpm Single",
   "para": "In August 1970 the Lumpen went to the Tiki Recording Studio in San Jose and recorded two songs that would be released on a 45 rpm single: the original Calhoun compositions “Free Bobby Now” and “No More.” As far as bandleader Calhoun was concerned, the recording was just a test pressing to see what the group sounded like. However, as soon as the tape was heard by Party leadership, it was out of his hands. The single was pressed, advertised in the Black Panther, and sold at local Panther Party events and at Lumpen performances. Party members also took the single to local Bay Area black radio stations requesting airplay but were told repeatedly that the music was too radical for the airwaves."
+ },
+ "Point one was, “We want freedom. We want power to determine the destiny of our community.”": {
+  "ch": 4,
+  "page": 67,
+  "sec": "The Ten Point Program",
+  "para": "The ten points directly addressed the problems of living in the working-class black areas of Oakland. Point one was, “We want freedom. We want power to determine the destiny of our community.” Point two, “We want full employment for our people,” was from the outset a challenge to the economics of capitalism and its deleterious effects upon the black community. Point three followed directly: “We want an end to the robbery by the CAPITALISTS of our black community.” Point four demanded decent housing, and point five demanded proper education. Point six was far-reaching: “We want all black men to be exempt from military service.” This bold move was supported by the claim, “We believe that black people should not be forced to fight in the military service to defend a racist government that does not protect us.” Similarly, point eight demanded the release of all black men from jails, as they were not given fair trials by juries of their peers, which was point nine. Point ten was more or less a summary of the points: “We want land, bread, housing, education, clothing, justice, and peace.” In addition, point ten demanded a United Nations-administered plebiscite (vote) to allow blacks to determine their own destiny. They supported the final demand with a passage from the July 4, 1776, United States Declaration of Independence:"
+ },
+ "Shortly after the conference, David Hilliard announced the formation of the National Committee to Combat Fascism (NCCF) as a non-racially exclusive adjunct to the Panthers.": {
+  "ch": 4,
+  "page": 83,
+  "sec": "The NCCF",
+  "para": "By 1969 the Black Panther Party was taking initiative in coalition-building with white radicals. It sought to create spaces where allied and adjunct Party offices could be created in which nearly identical Party functions took place and all community members could participate. In July 1969 the Panthers sponsored a United Front Against Fascism Conference in Oakland specifically to draw support for Panther goals from a broader community. Shortly after the conference, David Hilliard announced the formation of the National Committee to Combat Fascism (NCCF) as a non-racially exclusive adjunct to the Panthers."
+ },
+ "Sly & the Family Stone changed the way music was played—from the way Stevie Wonder sang to the funky rumblings behind Miles Davis.": {
+  "ch": 4,
+  "page": 52,
+  "sec": "“Dance to the Music”",
+  "para": "Sly & the Family Stone changed the way music was played—from the way Stevie Wonder sang to the funky rumblings behind Miles Davis. They pointed the future of jazz to Herbie Hancock and made the Temptations grow up. There would be no Prince if there hadn’t been a Sly Stone. Michael Jackson is such a fan, he bought the publishing rights."
+ },
+ "Sly Stone and the band were performing racial anger, across the racial divide—in both directions—as equal parties involved.": {
+  "ch": 4,
+  "page": 54,
+  "sec": "“Don’t Call Me Nigger, Whitey”",
+  "para": "The song served a stronger and more significant purpose than the typical protest song. Sly Stone and the band were performing racial anger, across the racial divide—in both directions—as equal parties involved. Neither racial group was seen as above or below the other, and the racial confrontation was in fact a bold, if implicit, statement of equality among the combatants. Despite the harshness of the song’s tone, it was as important as any of the band’s other songs in affirming that everyone is of equal worth. On the album, once the song is finished, the exaltory “I Want to Take You Higher” explodes, emphasizing just what can come after the racial confrontation is over. Sly had made his point. There is a new world on the other side of the race war, and everyone is invited."
+ },
+ "So he’s the one that came out with that statement: “The Black Panther Party is feeding more children in the nation than the United States government.”": {
+  "ch": 4,
+  "page": 79,
+  "sec": "James Mott and the Sacramento Black Panther Party",
+  "para": "That’s how Jesse Unruh, at that time state attorney general, came out with that statement because they had been informed—the information had been given to them every time they opened up that paper. They would read about another breakfast program. This one is in L.A., this one is in Baltimore, New York, wherever. It was there. So he’s the one that came out with that statement: “The Black Panther Party is feeding more children in the nation than the United States government.”"
  },
  "So with our steps you would see us throw grenades, you would see us pump shotguns, you would see us … do a whole choreographed dance routine.": {
   "ch": 3,
@@ -288,6 +396,12 @@ window.LUMPEN_REFS = {
   "sec": "Framing Party Music",
   "para": "Some books are organized in a linear, chronological fashion. This book is not one of them. Party Music is structured along a set of songs performed by the Lumpen at a concert in Oakland in November 1970. The live Lumpen experience is an important element here. Their approach to soul music, and their skillful infusion of explicitly political lyrics onto established black popular music songs during their performances, presents us with an experience worthy of study in and of itself. Their approach went far beyond the use of gimmicks and chic radical slogans. The Lumpen transfused an entire rhythm and blues concert with the lifeblood of the revolution. Every lyric, every harmonized verse, every chant, every grunt, every shout carries a weight of meaning in their performance. Rather than transcribe an entire concert at once, each song of the evening is examined individually, as a guide to each chapter. All of the chapters begin with an immersion into the live Lumpen show, followed by a brief take on the original hit song the group had chosen to reinterpret and politicize. From there the discussion goes in many directions, from radical politics to music and culture and back again. Each chapter discussion is a deliberation on a theme inspired by a Lumpen song."
  },
+ "The Panthers had shocked the world.": {
+  "ch": 4,
+  "page": 71,
+  "sec": "Sacramento",
+  "para": "Photographs of Seale, Lil’ Bobby Hutton, and the others were transmitted worldwide. The news spread fast: GUNMEN INVADE WEST COAST CAPITOL crossed the front page of the Chicago Tribune; ARMED NEGROES ENTER CALIFORNIA ASSEMBLY IN GUN BILL PROTEST was the New York Times tagline; ARMED GANG INVADES STATE CAPITOL was the headline from London’s Guardian. The Panthers had shocked the world."
+ },
  "The band was the Lumpen, and this book tells their story, and the story of the Black Panther Party, and of the revolution that created them.": {
   "ch": 1,
   "page": "xv",
@@ -330,11 +444,23 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "The radical moment was fueled by the idea of “black power!” Black power was more than a political movement driven by nationalism and enmity toward whites, it was a resistance culture, a means of reclaiming one’s identity through the events and actions of one’s daily life during this time of radical change. The music and other cultural productions of the times played a significant role in this process. People heard the speeches and went to the rallies, but they also danced to the music and felt the fire of revolution flow through their bodies in motion. The cultural politics of black power were crucial to the times."
  },
+ "The real revolution is just around the corner, we felt.": {
+  "ch": 4,
+  "page": 71,
+  "sec": "Sacramento",
+  "para": "The day Bobby Seale and the Panthers went up to Sacramento with their guns, the state campus sparkled with anticipation. The word spread like only good news can. Black students were beaming from one end of the campus to the other. The real shit was not too far away, was what was in some of our minds. The real revolution is just around the corner, we felt. The photos of Bobby [Seale] and Bobby Hutton on the front page with their heat strapped on or in hand did something wonderful to us. It pumped us up bigger than life. Black men demanding democracy and justice and ready to fight about it! Those were heady times."
+ },
  "The title of this book is borrowed from the name of one of Boots Riley’s albums.": {
   "ch": 1,
   "page": "xv",
   "sec": "Party Music: The Coup",
   "para": "I was made aware of the Lumpen in 2002 through conversations with Boots Riley, leader of the rap group the Coup. The title of this book is borrowed from the name of one of Boots Riley’s albums. The Coup’s fourth album, Party Music, released in late 2001, garnered its own controversy before the record was even distributed, as the cover artwork depicting the destruction of the World Trade Center (a few months hence) was seen at the time as all too prophetic. The artwork was withdrawn before the CD hit the stores, and the new art featured a photo of a filled martini glass, as if a party were taking place, with a gasoline can in the background. This image fused the idea of a party with the symbol of rebellion implied in a Molotov cocktail. With songs like “5 Million Ways to Kill a C.E.O,” “Pork and Beef,” and “Get Up,” Riley and DJ Pam “the Funkstress” Warren used humor, irony, verbal acrobatics, and wicked grooves to promote their message of radical social change. Showered in praise by critics, the Coup’s Party Music effectively used the funk to bring about an urgent call to action, as well as a call to the dance floor."
+ },
+ "The two were able to debate, discuss, and develop their Ten Point Plan for the Black Panther Party for Self-Defense while on the US government payroll.": {
+  "ch": 4,
+  "page": 63,
+  "sec": "The Rise of the Black Panther Party",
+  "para": "Ironically, Bobby and Huey were able to develop their own program courtesy of the state. Bobby obtained steady work at the North Oakland Neighborhood Service Center as a community liaison with the War on Poverty office. He was given funding to staff an assistant, and he hired Huey. The two were able to debate, discuss, and develop their Ten Point Plan for the Black Panther Party for Self-Defense while on the US government payroll."
  },
  "The urgent and triumphant traditional song “Keep Your Hand on the Plow” was reimagined by civil rights activist Alice Wine and transformed into “Keep Your Eyes on the Prize,” while the simplest of gospel standards, the melodic “Amen”—sung with the word extended “aaa-men!”—was transformed by young activists at the early sit-ins to become “free-dom!”": {
   "ch": 2,
@@ -354,11 +480,23 @@ window.LUMPEN_REFS = {
   "sec": "“Revolution in the Air”",
   "para": "“Black power,” like soul, was an elusive slogan to define at the time, yet you knew it when you felt it. The live black music show was one site at which people from all walks of life were given a communal space—a radical concept at the time—to behave with abandon. While this might be dismissed as simply a recreational respite from the true grind of the movement, many of the movement’s goals and ideals were formed, focused, and quite literally brought to life there. In the early 1960s, audiences of youth were living integration on the dance floor, witnessing equality—and quite clearly experiencing freedom—with each beat and freeform physical gyration to the music. Their pleasure was in itself a form of political expression, and the politics of pleasure were on full display, shouting down the politics of partisanship."
  },
+ "There is a certain synchronicity between the groundbreaking musical upheaval brought about by Sly and the Family Stone and the parallel development of the Black Panther Party.": {
+  "ch": 4,
+  "page": 50,
+  "sec": null,
+  "para": "There is a certain synchronicity between the groundbreaking musical upheaval brought about by Sly and the Family Stone and the parallel development of the Black Panther Party. Both revolutionary entities emerged at almost exactly the same time, from the same community, and both changed the thinking of a generation."
+ },
  "There was a tune I wrote called “Killing” that Huey made us stop singing.": {
   "ch": 3,
   "page": 34,
   "sec": null,
   "para": "There was a tune I wrote called “Killing” that Huey made us stop singing. The Party was making this transition. We were making the transition from being the guys on the posters with the guns to breakfast programs and political work and that kind of stuff."
+ },
+ "There was an enormous freedom to the band’s sound.": {
+  "ch": 4,
+  "page": 54,
+  "sec": "“Dance to the Music”",
+  "para": "There was an enormous freedom to the band’s sound. It was complex because freedom is complex; wild and anarchic, like the wish for freedom; sympathetic, affectionate and coherent, like the reality of freedom. And it was all celebration, all affirmation, a music of endless humor and delight, like a fantasy of freedom."
  },
  "There will be neither rest nor tranquility in America until the Negro is granted his citizenship rights. The whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges.": {
   "ch": 2,
@@ -396,6 +534,12 @@ window.LUMPEN_REFS = {
   "sec": null,
   "para": "They were given the name the Lumpen by Chief of Staff David Hilliard. Most of the local Party members who took regular political education classes on Sundays were aware of the meaning of the name, which, as Calhoun explains, “is based on Karl Marx’s social analysis which says that the lumpenproletariat are the lowest strata of social society.” The lumpenproletariat, according to Marx, were the “social scum” of society, the “refuse of all classes,” including “swindlers, confidence tricksters, brothel-keepers, rag-and-bone merchants, organ-grinders, beggars, and other flotsam of society.” This group was of a social status below the proletariat, the masses of the working classes that Marx envisioned would spearhead the uprising that would defeat capitalism. Karl Marx frequently referred to the lumpenproletariat with derision and in The Communist Manifesto proclaimed: “The Lumpenproletariat, that passively rotting mass thrown off by the lowest layers of old society, may, here and there, be swept into the movement by a proletarian revolution; its conditions of life, however, prepare it far more for the part of a bribed tool of reactionary intrigue.” There appeared to be little use for the lumpenproletariat in a class analysis of revolutionary change. However, Black Panther Party founder and ideological leader Huey Newton found value and political potential in the lumpenproletariat and differed from Marx in that sense. While Marx believed that this subclass was too unstable and vulnerable for co-optation by the bourgeoisie and the ruling classes (and to their own habitual…"
  },
+ "They were not divested from their black audience as Jimi Hendrix was, nor were they bound to it as James Brown was.": {
+  "ch": 4,
+  "page": 85,
+  "sec": "Sly Stone, Interracialism, and the Panthers",
+  "para": "The resonance of Sly and the Family Stone on Bay Area culture should not be underestimated. The pioneering outfit certainly transcended racial categories and was equally popular among whites and blacks. They were not divested from their black audience as Jimi Hendrix was, nor were they bound to it as James Brown was. Sly and the Family Stone, for a brief period, put forth an entirely new concept of integration. It was transcendent, because it celebrated a space in the imagination far beyond the premise of equal participation in the stale institutions that created the racial conflicts in the first place. Sly, in his vision, conceived a new space in which “Love City” was the address, followers were leaders, and leaders had no titles. This new space was accessible to anyone, yet the director of the operation, the subtle and slippery ringmaster, puppeteer, and pied piper of the social revolution was a black man, Sly Stone. This black man had been raised in the working-class streets of the Bay Area black community and had not abandoned his ties to the pool-hall homeboys of his adolescence, even as he wrote pop anthems for rock groups in San Francisco. Like Huey Newton, Sly Stone would rocket to worldwide stardom from humble Bay Area roots with a revolutionary new way to look at the world. Also like Huey Newton, Sly Stone would withdraw to his street life and disappear from the scene in a few short years. Generations later, rebel youth are still studying Huey Newton’s revolutionary politics—and Sly Stone’s revolutionary music."
+ },
  "This Great Transformation was a result of black power, and the focal point of black power politics and culture was the Black Panther Party, which combined political theater, social work, and urban warfare at the flashpoint of racial unrest in twentieth-century America.": {
   "ch": 2,
   "page": 14,
@@ -420,11 +564,23 @@ window.LUMPEN_REFS = {
   "sec": "The 45 rpm Single",
   "para": "The vocal vamping in between the chorus reflected the James Brown influence, as Brown was known for using religious references as part of his repertoire of rhythmic, soulful inflections. This was an essential element of soul music: the fluid fusion of sacred and secular, the gospel and the blues. The aesthetic contradictions were ripe because the Black Panther Party was a revolutionary organization, a self-described Socialist organization that did not emphasize organized religion as a means of organizing people. Yet the conventions of soul music—the spiritual references—were employed with predictable results. The burning track works out in under two and a half minutes."
  },
+ "This wide-open, reality-driven, affirming brand of funk and soul was directly related to the breakthroughs, musically and socially, of Sly and the Family Stone.": {
+  "ch": 4,
+  "page": 55,
+  "sec": "“Don’t Call Me Nigger, Whitey”",
+  "para": "The music of Sly and the Family Stone inspired a wave of songs in which artists celebrated a new and authentic self image, one no longer in need of racial or social acceptance. Shortly after Stand!, the Isley Brothers recorded “It’s Your Thing,” Isaac Hayes sang “Do Your Thing,” Charles Wright and the Watts 103rd Street Rhythm Band urged people to “Express Yourself,” and a flowering of social commentary from the Temptations emerged on songs such as “Message from a Black Man,” “Cloud Nine,” and “Ball of Confusion.” This wide-open, reality-driven, affirming brand of funk and soul was directly related to the breakthroughs, musically and socially, of Sly and the Family Stone."
+ },
  "Through Walter Turner, I was able to digitize the single as well as other cultural productions of the black radical movement, including the two music albums recorded by former Panther Party leader Elaine Brown.": {
   "ch": 1,
   "page": "xvi",
   "sec": "Party Music: The Coup",
   "para": "He showed me a seven-inch, 45 rpm single with the titles “Free Bobby Now” and “No More” printed on each side. It was credited as a Seize the Time production, and the artist was listed as the Lumpen. The single is one of the most sought after oldies records by music collectors. Through Walter Turner, I was able to digitize the single as well as other cultural productions of the black radical movement, including the two music albums recorded by former Panther Party leader Elaine Brown."
+ },
+ "Thus, the ghetto pimp culture, so popularized by contemporary rap stars such as Too $hort and E-40, was established during the 1950s and 1960s in Oakland (and glorified in the 1973 movie The Mack).": {
+  "ch": 4,
+  "page": 60,
+  "sec": "Oakland Stroke",
+  "para": "Economically, however, the Bay Area was as racially restrictive as any other metropolitan region in America. The end of World War II sent the black economy spiraling downward. Racism and red-lining operated to keep blacks from purchasing property outside of “their” neighborhoods. In the East Bay, the black underclass was also growing in size and influence as alternative economies of drug trafficking and prostitution became established elements of urban life. San Francisco was a navy port city and tourist attraction, and the gambling and prostitution was well regulated by its famously corrupt police force. Across the bay was a different matter. There was more freedom for individual hustlers to operate. Thus, the ghetto pimp culture, so popularized by contemporary rap stars such as Too $hort and E-40, was established during the 1950s and 1960s in Oakland (and glorified in the 1973 movie The Mack)."
  },
  "We are an African people, so it was natural that from the beginning, from the spirituals right on up, music would be our weapon and our solace.": {
   "ch": 2,
@@ -444,6 +600,12 @@ window.LUMPEN_REFS = {
   "sec": null,
   "para": "We were just singing popular songs. Clark Bailey, Michael, and I, as we were racking and stacking, whatever we would do, we would hum songs, sing songs, whatever. We were just singing popular songs, nothing revolutionary. We may throw a little something in like we did with the Isley Brothers’ “It’s your thing, do what you wanna do, whitey can’t tell you what the f—to do,” we changed the lyrics a little bit."
  },
+ "We used to put together the newspaper to the strains of Bob Dylan’s Highway 61 Revisited. Huey’s favorite song was “Ballad of a Thin Man.”": {
+  "ch": 4,
+  "page": 69,
+  "sec": "The Ten Point Program",
+  "para": "The Black Panther newspaper was born during the height of the counterculture revolution and the hippie underground newspaper movement. We used to put together the newspaper to the strains of Bob Dylan’s Highway 61 Revisited. Huey’s favorite song was “Ballad of a Thin Man.” Publishers who were sympathetic to the Black Panthers and their Ten Point Program regularly printed weekly editions of various alternative press, circulating everything from leaflets to full-blown, newsprint periodicals such as the San Francisco Oracle and the Berkeley Barb. Consequently, one publication offered Huey and the Black Panthers use of their mimeograph machines. If Huey and the Party provided the necessary paper, ink, and staples, they could assemble their own leaflets."
+ },
  "We went as revolutionaries, not as R&B stars,” Clark Bailey recalls.": {
   "ch": 3,
   "page": 42,
@@ -455,6 +617,12 @@ window.LUMPEN_REFS = {
   "page": 34,
   "sec": null,
   "para": "There was a tune I wrote called “Killing” that Huey made us stop singing. The Party was making this transition. We were making the transition from being the guys on the posters with the guns to breakfast programs and political work and that kind of stuff."
+ },
+ "When Malcolm X was killed in 1965, I ran down the street.": {
+  "ch": 4,
+  "page": 62,
+  "sec": "The Rise of the Black Panther Party",
+  "para": "When Malcolm X was killed in 1965, I ran down the street. I went to my mother’s house, and I got six loose red bricks from the garden. Every time I saw a paddy roll by in a car, I picked up one of the half-bricks and threw it at the motherfuckers. I threw about half the bricks, and then I cried like a baby. I was righteously crying. I was pissed off and mad. Every paddy I’d see, whop! I’d throw a brick, and it would hit the cars, and zoom! They’re driving down the street, and I’m throwing bricks for a motherfucker. I thought that was all I could do. I was ready to die that day."
  },
  "When the sixties ended, rock was defined by Jimi Hendrix abusing the “Star-Spangled Banner” at the Woodstock concert in August 1969.": {
   "ch": 2,
@@ -473,6 +641,18 @@ window.LUMPEN_REFS = {
   "page": 40,
   "sec": "The 45 rpm Single",
   "para": "The Lumpen performed outside in the cold at the aborted second Revolutionary People’s Constitutional Convention (RPCC) in Washington, DC, on Friday, November 27, 1970. The convention was intended to be a follow-up to the Philadelphia RPCC and an opportunity for thousands of activists to finalize their ideas for a new antiracist, anticapitalist, progender equality, gay-tolerant society. However, problems with the unpaid rent for the venue at Howard University left hundreds of delegates literally out in the cold. The impromptu Lumpen performance was one of the only high points of the gathering. They were met once again by the FBI. William Calhoun recalls, “The FBI guy walked past us and said, ‘What took you so long to get here? We lost you in New York and we thought you’d never get here.’ ‘Cause they followed us down from Boston.”"
+ },
+ "With weapons in our hands we were no longer their subjects but their equals.": {
+  "ch": 4,
+  "page": 68,
+  "sec": "The Ten Point Program",
+  "para": "At first, the patrols were a total success. Frightened and confused, the police did not know how to respond, because they had never encountered patrols like this before. They were familiar with the community-alert patrols in other cities, but never before had guns been an integral part of any patrol program. With weapons in our hands we were no longer their subjects but their equals."
+ },
+ "You know, it’s not good to fight the police, you’re gonna lose.": {
+  "ch": 4,
+  "page": 86,
+  "sec": "Sly Stone, Interracialism, and the Panthers",
+  "para": "Kathleen Cleaver, … she wanted one hundred thousand dollars. I said OK, but you got to first make me know—give me a reason to why I should do that. They were trying to make me feel like I needed for them to remind me I’m black. That it would be a good thing to do so that I’d be secure and black. I ain’t got no problem being black, in the first place. I’m not into that violence you guys do though. So I don’t want to contribute to that. You know, it’s not good to fight the police, you’re gonna lose."
  },
  "[To us] they were not seen as revolutionary types, they were just track runners.": {
   "ch": 3,
