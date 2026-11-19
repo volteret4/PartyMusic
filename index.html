@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Party Music: timeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Work+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <a class="home" href="../index.html" data-pages="/libros/">← Todos los libros</a>
+    <h1>Party Music <span>· los Lumpen, la banda de los Black Panthers, según Rickey Vincent</span></h1>
+    <p class="sub">Timeline de los movimientos, grupos, personas y discos que cuenta <i>Party Music: The Inside Story of the Black Panthers’ Band and How Black Power Transformed Soul Music</i> (Rickey Vincent, con prólogo de Boots Riley; Lawrence Hill Books, 2013): de las canciones de libertad de los derechos civiles, el soul de Motown y Curtis Mayfield y el funk de James Brown al Black Panther Party, su banda revolucionaria —los Lumpen, Oakland, 1970-1971— y el rap político que vino después, construido capítulo a capítulo con citas literales, la página impresa del libro y vídeos de YouTube.</p>
+  </div>
+  <div class="progress" id="progress"></div>
+</header>
+
+<nav class="controls">
+  <input id="q" type="search" placeholder="Buscar escena, persona, disco, canción…" autocomplete="off">
+  <button id="ftoggle" class="ftoggle" type="button" aria-expanded="false">Filtros</button>
+  <div class="views" role="tablist">
+    <button data-view="timeline" class="on">Timeline</button>
+    <button data-view="focus">Mapa de influencias</button>
+    <button data-view="discs">Capítulos | Escenas</button>
+    <button data-view="covers">Portadas</button>
+  </div>
+  <div class="families" id="families"></div>
+</nav>
+
+<main>
+  <section id="timeline" class="view on">
+    <p class="hint"><span class="mouse">Pasa el ratón por una escena para ver de dónde viene (líneas entrantes) y qué engendra (salientes). Clic para abrir la ficha; clic en una zona vacía para cerrarla. Con «Menciones» eliges qué escenas despliegan sus artistas; clic en un artista para ver los pasajes que lo nombran.</span><span class="touch">Desliza para recorrer los años; toca una escena para abrir su ficha.</span></p>
+    <div class="mctl" id="mctl"></div>
+    <div class="scroller" id="scroller"><svg id="svg"></svg></div>
+  </section>
+  <section id="focus" class="view">
+    <div class="fbar">
+      <input id="fq" type="search" list="focus-names" placeholder="Elige una escena…" autocomplete="off">
+      <datalist id="focus-names"></datalist>
+      <button id="freset" type="button">Reiniciar</button>
+    </div>
+    <p class="hint" id="fhint">Escribe y elige una escena: verás un mapa con las que la influyen (a su izquierda) y las que influye (a su derecha), cada una con sus años; las flechas van de la influencia a lo influido. Pulsa «+» en cualquiera para desplegar también sus relaciones; pasa el ratón por una para resaltar sus flechas; arrástrala para moverla; clic abre su ficha.</p>
+    <div class="scroller" id="fscroller"><svg id="fsvg"></svg></div>
+  </section>
+  <section id="discs" class="view discs"></section>
+  <section id="covers" class="view"></section>
+</main>
+
+<aside id="panel" aria-hidden="true">
+  <button class="close" id="close" aria-label="Cerrar">×</button>
+  <div id="detail"></div>
+</aside>
+
+<script src="data/core.js"></script>
+<!-- capitulos:inicio -->
+<!-- capitulos:fin -->
+<script src="data/refs.js"></script>
+<script src="data/pages.js"></script>
+<script src="data/yt.js"></script>
+<script src="data/covers.js"></script>
+<script src="covers.js"></script>
+<script src="menciones.js"></script>
+<script src="app.js"></script>
+<script src="vistas.js"></script>
+</body>
+</html>
