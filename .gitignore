@@ -10,3 +10,8 @@
 client_secret.json
 client_secret*·json
 build/epub/
+
+# el libro y su texto completo no se publican
+*.epub
+*.pdf
+build/
